@@ -1,0 +1,98 @@
+{
+  "date": "2026-05-24",
+  "lastUpdated": "2026-05-24T05:19:01.087Z",
+  "gooood": [
+    {
+      "id": "gooood-0",
+      "title": "日常项目深度报道：Mission Bay - Uber总部大楼 / SHoP建筑事务所",
+      "imageUrl": "https://oss.gooood.cn/uploads/2026/04/uber-headquarter-shop-cover-拷贝-pit.jpg",
+      "sourceUrl": "https://www.gooood.cn/topic-mission-bay-uber-headquarters-by-shop-architects.htm",
+      "source": "gooood",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "gooood-1",
+      "title": "OFFICE真相专辑 NO.57  - 未见筑",
+      "imageUrl": "https://oss.gooood.cn/uploads/2026/03/05-office-fact-LINK-ARC.jpg",
+      "sourceUrl": "https://www.gooood.cn/office-fact-no-57-we-live-architects.htm",
+      "source": "gooood",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "gooood-2",
+      "title": "项目对接服务成功案例分享第二十一期：胡同住宅改造",
+      "imageUrl": "https://oss.gooood.cn/uploads/2026/03/duijie-anli-youshanjianzhu.jpg",
+      "sourceUrl": "https://www.gooood.cn/get-project-case-hutong-house-renovation.htm",
+      "source": "gooood",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "gooood-3",
+      "title": "在海外专辑第一百四十七期 – 王晨燕",
+      "imageUrl": "https://oss.gooood.cn/uploads/2026/03/OVERSEAcover_wangyancheng-拷贝.jpg",
+      "sourceUrl": "https://www.gooood.cn/overseas-chenyan-wang.htm",
+      "source": "gooood",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "gooood-4",
+      "title": "OFFICE真相专辑 NO.56  - Link-Arc建筑事务所",
+      "imageUrl": "https://oss.gooood.cn/uploads/2026/02/00-office-fact-LINK-ARC-ync.jpg",
+      "sourceUrl": "https://www.gooood.cn/office-fact-studio-link-arc.htm",
+      "source": "gooood",
+      "architect": null,
+      "category": null
+    }
+  ],
+  "archdaily": [
+    {
+      "id": "archdaily-0",
+      "title": "泳池上方的办公室 / Modulito Estudio + atelier industrial",
+      "imageUrl": "https://images.adsttc.com/media/images/6a02/e4e8/bbf1/cd01/885b/bf43/medium_jpg/oficina-sobre-pileta-modulito-estudio-plus-atelier-industrial_19.jpg?1778574581",
+      "sourceUrl": "https://www.archdaily.cn/cn/1041715/yong-chi-shang-fang-de-ban-gong-shi-modulito-estudio-plus-atelier-industrial",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-1",
+      "title": "贝尔方丹林间住宅 / UUfie",
+      "imageUrl": "https://snoopy.archdaily.com/images/archdaily/media/images/6a05/4874/a59b/8300/01a7/f7bd/slideshow/UUfie-BelfountainHouse-EmaPeter-35.jpg?1778731152&format=webp&width=540&height=580",
+      "sourceUrl": "https://www.archdaily.cn/cn/1041681/bei-er-fang-dan-lin-jian-zhu-zhai-uufie",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-2",
+      "title": "9 Wilson Ave 公寓 / MA+Co  + Neometro",
+      "imageUrl": "https://snoopy.archdaily.com/images/archdaily/media/images/6a05/ac9d/bbf1/cd01/885b/ca0a/slideshow/9-wilson-ave-apartment-ma-plus-co-plus-neometro_5.jpg?1778756787&format=webp&width=540&height=580",
+      "sourceUrl": "https://www.archdaily.cn/cn/1041617/9-wilson-ave-gong-yu-ma-plus-co-plus-neometro",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-3",
+      "title": "为“在场感”而设计：当建筑邀我们驻足停留",
+      "imageUrl": "https://snoopy.archdaily.com/images/archdaily/media/images/6969/4af4/f3b7/a026/63f2/e02a/slideshow/designing-for-presence-architecture-that-allows-us-to-stay_29.jpg?1768508155&format=webp&width=540&height=580",
+      "sourceUrl": "https://www.archdaily.cn/cn/1040238/wei-zai-chang-gan-er-she-ji-dang-jian-zhu-yao-wo-men-zhu-zu-ting-liu",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-4",
+      "title": "新奥尔良洛约拉大学礼拜堂 / Trahan Architects",
+      "imageUrl": "https://snoopy.archdaily.com/images/archdaily/media/images/6a03/6829/bbf1/cd01/885b/c2db/slideshow/loyola-university-chapel-trahan-architects_32.jpg?1778608226&format=webp&width=540&height=580",
+      "sourceUrl": "https://www.archdaily.cn/cn/1041615/xin-ao-er-liang-luo-yue-la-da-xue-li-bai-tang-trahan-architects",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    }
+  ]
+}

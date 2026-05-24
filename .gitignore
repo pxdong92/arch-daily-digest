@@ -1,0 +1,8 @@
+node_modules
+dist
+dist-ssr
+*.local
+.DS_Store
+scraper/node_modules
+*.tsbuildinfo
+screenshot-*.png

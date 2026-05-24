@@ -1,0 +1,15 @@
+{
+  "name": "arch-daily-digest-scraper",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "每日定时抓取古德建筑网和ArchDaily设计案例",
+  "scripts": {
+    "scrape": "node scraper.js",
+    "scrape:daemon": "node scraper.js --daemon",
+    "scrape:test": "node scraper.js --test"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "node-cron": "^3.0.3"
+  }
+}

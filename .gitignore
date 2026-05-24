@@ -6,3 +6,4 @@ dist-ssr
 scraper/node_modules
 *.tsbuildinfo
 screenshot-*.png
+.vercel

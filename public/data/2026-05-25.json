@@ -1,0 +1,98 @@
+{
+  "date": "2026-05-25",
+  "lastUpdated": "2026-05-25T20:50:11.010Z",
+  "gooood": [
+    {
+      "id": "gooood-0",
+      "title": "日常项目深度报道：Mission Bay - Uber总部大楼 / SHoP建筑事务所",
+      "imageUrl": "https://oss.gooood.cn/uploads/2026/04/uber-headquarter-shop-cover-拷贝-pit.jpg",
+      "sourceUrl": "https://www.gooood.cn/topic-mission-bay-uber-headquarters-by-shop-architects.htm",
+      "source": "gooood",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "gooood-1",
+      "title": "OFFICE真相专辑 NO.57  - 未见筑",
+      "imageUrl": "https://oss.gooood.cn/uploads/2026/03/05-office-fact-LINK-ARC.jpg",
+      "sourceUrl": "https://www.gooood.cn/office-fact-no-57-we-live-architects.htm",
+      "source": "gooood",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "gooood-2",
+      "title": "项目对接服务成功案例分享第二十一期：胡同住宅改造",
+      "imageUrl": "https://oss.gooood.cn/uploads/2026/03/duijie-anli-youshanjianzhu.jpg",
+      "sourceUrl": "https://www.gooood.cn/get-project-case-hutong-house-renovation.htm",
+      "source": "gooood",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "gooood-3",
+      "title": "在海外专辑第一百四十七期 – 王晨燕",
+      "imageUrl": "https://oss.gooood.cn/uploads/2026/03/OVERSEAcover_wangyancheng-拷贝.jpg",
+      "sourceUrl": "https://www.gooood.cn/overseas-chenyan-wang.htm",
+      "source": "gooood",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "gooood-4",
+      "title": "OFFICE真相专辑 NO.56  - Link-Arc建筑事务所",
+      "imageUrl": "https://oss.gooood.cn/uploads/2026/02/00-office-fact-LINK-ARC-ync.jpg",
+      "sourceUrl": "https://www.gooood.cn/office-fact-studio-link-arc.htm",
+      "source": "gooood",
+      "architect": null,
+      "category": null
+    }
+  ],
+  "archdaily": [
+    {
+      "id": "archdaily-0",
+      "title": "华沙起义丘公园 / Archigrest + topoScape",
+      "imageUrl": "https://images.adsttc.com/media/images/69fd/3778/3410/c601/7f86/e7ae/medium_jpg/warsaw-uprising-mound-archigrest-plus-toposcape_14.jpg?1778202556",
+      "sourceUrl": "https://www.archdaily.cn/cn/1041600/warsaw-uprising-mound-archigrest-plus-toposcape",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-1",
+      "title": "扎耶若瓦木材堆叠桑拿房 / Guča arch.",
+      "imageUrl": "https://images.adsttc.com/media/images/6a04/4067/a59b/8300/01a7/f6c8/medium_jpg/guca-architekti_matejhakar__L3A6571.jpg?1778663553",
+      "sourceUrl": "https://www.archdaily.cn/cn/1041717/zha-ye-ruo-wa-mu-cai-dui-die-sang-na-fang-guca-arch",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-2",
+      "title": "Yaw House / Robert Konieczny + KWK Promes",
+      "imageUrl": "https://images.adsttc.com/media/images/6a0a/ff59/fd52/9201/89f2/086b/medium_jpg/yaw-house-robert-konieczny-plus-kwk-promes_16.jpg?1779105638",
+      "sourceUrl": "https://www.archdaily.cn/cn/1041716/yaw-house-robert-konieczny-plus-kwk-promes",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-3",
+      "title": "北京理工大学国际交流中心改造 / 大屿建筑",
+      "imageUrl": "https://images.adsttc.com/media/images/6a0d/1821/093e/9201/8986/4e07/medium_jpg/renovation-of-bit-international-education-communication-center-yuarchitects_5.jpg?1779243057",
+      "sourceUrl": "https://www.archdaily.cn/cn/1041718/bei-jing-li-gong-da-xue-guo-ji-jiao-liu-zhong-xin-gai-zao-yuarchitects",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-4",
+      "title": "“做建筑”: 总策展人王澍和陆文宇公布 2027 威尼斯建筑双年展主题",
+      "imageUrl": "https://images.adsttc.com/media/images/6a0c/3c9d/093e/9201/8986/4aad/medium_jpg/wang-shu-and-lu-wenyu-announce-theme-and-title-for-2027-venice-architecture-biennale_3.jpg?1779186866",
+      "sourceUrl": "https://www.archdaily.cn/cn/1041684/zuo-jian-zhu-zong-ce-zhan-ren-wang-shu-he-lu-wen-yu-gong-bu-2027-wei-ni-si-jian-zhu-shuang-nian-zhan-zhu-ti",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    }
+  ]
+}

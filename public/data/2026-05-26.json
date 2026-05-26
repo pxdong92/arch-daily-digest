@@ -1,0 +1,98 @@
+{
+  "date": "2026-05-26",
+  "lastUpdated": "2026-05-26T22:00:04.516Z",
+  "gooood": [
+    {
+      "id": "gooood-0",
+      "title": "日常项目深度报道：Mission Bay - Uber总部大楼 / SHoP建筑事务所",
+      "imageUrl": "https://oss.gooood.cn/uploads/2026/04/uber-headquarter-shop-cover-拷贝-pit.jpg",
+      "sourceUrl": "https://www.gooood.cn/topic-mission-bay-uber-headquarters-by-shop-architects.htm",
+      "source": "gooood",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "gooood-1",
+      "title": "OFFICE真相专辑 NO.57  - 未见筑",
+      "imageUrl": "https://oss.gooood.cn/uploads/2026/03/05-office-fact-LINK-ARC.jpg",
+      "sourceUrl": "https://www.gooood.cn/office-fact-no-57-we-live-architects.htm",
+      "source": "gooood",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "gooood-2",
+      "title": "项目对接服务成功案例分享第二十一期：胡同住宅改造",
+      "imageUrl": "https://oss.gooood.cn/uploads/2026/03/duijie-anli-youshanjianzhu.jpg",
+      "sourceUrl": "https://www.gooood.cn/get-project-case-hutong-house-renovation.htm",
+      "source": "gooood",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "gooood-3",
+      "title": "在海外专辑第一百四十七期 – 王晨燕",
+      "imageUrl": "https://oss.gooood.cn/uploads/2026/03/OVERSEAcover_wangyancheng-拷贝.jpg",
+      "sourceUrl": "https://www.gooood.cn/overseas-chenyan-wang.htm",
+      "source": "gooood",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "gooood-4",
+      "title": "OFFICE真相专辑 NO.56  - Link-Arc建筑事务所",
+      "imageUrl": "https://oss.gooood.cn/uploads/2026/02/00-office-fact-LINK-ARC-ync.jpg",
+      "sourceUrl": "https://www.gooood.cn/office-fact-studio-link-arc.htm",
+      "source": "gooood",
+      "architect": null,
+      "category": null
+    }
+  ],
+  "archdaily": [
+    {
+      "id": "archdaily-0",
+      "title": "上海徐汇虹梅街道上澳塘党群服务中心 / 刘宇扬建筑事务所",
+      "imageUrl": "https://images.adsttc.com/media/images/6a14/39d9/c171/3c01/7e87/a41a/medium_jpg/shangao-canal-social-service-center-atelier-liu-yuyang-architects_2.jpg?1779710440",
+      "sourceUrl": "https://www.archdaily.cn/cn/1041844/shang-hai-xu-hui-hong-mei-jie-dao-shang-ao-tang-dang-qun-fu-wu-zhong-xin-liu-yu-yang-jian-zhu-shi-wu-suo",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-1",
+      "title": "上海南京东路世纪广场改造更新 / EMBT + 同济院",
+      "imageUrl": "https://images.adsttc.com/media/images/6a14/d4a9/fd52/9207/909d/2383/medium_jpg/the-ecological-kaleidoscope-of-east-nanjing-road-century-square-reborn-embt-plus-tjad_13.jpg?1779750108",
+      "sourceUrl": "https://www.archdaily.cn/cn/1041846/shang-hai-nan-jing-dong-lu-shi-ji-yan-chang-gai-zao-geng-xin-embt-plus-tong-ji-yuan",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-2",
+      "title": "上海包玉刚实验学校包陪庆楼 / 山水秀建筑事务所",
+      "imageUrl": "https://images.adsttc.com/media/images/6a10/bc31/fd52/9201/89f2/207f/medium_jpg/anna-pao-sohmen-centre-at-yk-pao-school-scenic-architecture-office_2.jpg?1779481741",
+      "sourceUrl": "https://www.archdaily.cn/cn/1041813/shang-hai-bao-yu-gang-shi-yan-xue-xiao-bao-pei-qing-lou-shan-shui-xiu-jian-zhu-shi-wu-suo",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-3",
+      "title": "珠海世荣草朗稻梦生态园谷仓餐厅 / 水石设计-米川工作室",
+      "imageUrl": "https://images.adsttc.com/media/images/6a10/9702/093e/9201/8986/5de8/medium_jpg/zhuhai-chillong-dreamland-barn-restaurant-shuishi_3.jpg?1779472145",
+      "sourceUrl": "https://www.archdaily.cn/cn/1041810/zhu-hai-shi-rong-cao-lang-dao-meng-sheng-tai-yuan-gu-cang-can-ting-shui-shi-she-ji-mi-chuan-gong-zuo-shi",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-4",
+      "title": "西湖大学图书中心 / 浙江大学建筑设计研究院",
+      "imageUrl": "https://images.adsttc.com/media/images/6a0f/a1f4/fd52/9201/89f2/1a46/medium_jpg/the-westlake-university-library-uad_16.jpg?1779409440",
+      "sourceUrl": "https://www.archdaily.cn/cn/1041811/xi-hu-da-xue-tu-shu-zhong-xin-zhe-jiang-da-xue-jian-zhu-she-ji-yan-jiu-yuan",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    }
+  ]
+}

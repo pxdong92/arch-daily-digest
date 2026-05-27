@@ -1,0 +1,98 @@
+{
+  "date": "2026-05-27",
+  "lastUpdated": "2026-05-27T22:21:14.751Z",
+  "gooood": [
+    {
+      "id": "gooood-0",
+      "title": "日常项目深度报道：Mission Bay - Uber总部大楼 / SHoP建筑事务所",
+      "imageUrl": "https://oss.gooood.cn/uploads/2026/04/uber-headquarter-shop-cover-拷贝-pit.jpg",
+      "sourceUrl": "https://www.gooood.cn/topic-mission-bay-uber-headquarters-by-shop-architects.htm",
+      "source": "gooood",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "gooood-1",
+      "title": "OFFICE真相专辑 NO.57  - 未见筑",
+      "imageUrl": "https://oss.gooood.cn/uploads/2026/03/05-office-fact-LINK-ARC.jpg",
+      "sourceUrl": "https://www.gooood.cn/office-fact-no-57-we-live-architects.htm",
+      "source": "gooood",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "gooood-2",
+      "title": "项目对接服务成功案例分享第二十一期：胡同住宅改造",
+      "imageUrl": "https://oss.gooood.cn/uploads/2026/03/duijie-anli-youshanjianzhu.jpg",
+      "sourceUrl": "https://www.gooood.cn/get-project-case-hutong-house-renovation.htm",
+      "source": "gooood",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "gooood-3",
+      "title": "在海外专辑第一百四十七期 – 王晨燕",
+      "imageUrl": "https://oss.gooood.cn/uploads/2026/03/OVERSEAcover_wangyancheng-拷贝.jpg",
+      "sourceUrl": "https://www.gooood.cn/overseas-chenyan-wang.htm",
+      "source": "gooood",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "gooood-4",
+      "title": "OFFICE真相专辑 NO.56  - Link-Arc建筑事务所",
+      "imageUrl": "https://oss.gooood.cn/uploads/2026/02/00-office-fact-LINK-ARC-ync.jpg",
+      "sourceUrl": "https://www.gooood.cn/office-fact-studio-link-arc.htm",
+      "source": "gooood",
+      "architect": null,
+      "category": null
+    }
+  ],
+  "archdaily": [
+    {
+      "id": "archdaily-0",
+      "title": "失落犹太小镇犹太博物馆 / Lahdelma & Mahlamäki Architects",
+      "imageUrl": "https://images.adsttc.com/media/images/69f3/4249/9fd7/2b01/7b02/5cea/medium_jpg/the-lost-shtetl-jewish-museum-lahdelma-and-mahlamaki-architects_8.jpg?1777549946",
+      "sourceUrl": "https://www.archdaily.cn/cn/1041416/shi-luo-you-tai-xiao-zhen-you-tai-bo-wu-guan-lahdelma-and-mahlamaki-architects",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-1",
+      "title": "多抓鱼循环商店 / Offhand Practice",
+      "imageUrl": "https://images.adsttc.com/media/images/6a15/29ea/35eb/2400/01f0/4552/medium_jpg/06_Eight_weathering_steel_frames_divide_the_space_into_two_display_zones__naturally_forming_an_atrium_plaza_in_the_middle._.jpg?1779772004",
+      "sourceUrl": "https://www.archdaily.cn/cn/1041876/duo-zhua-yu-xun-huan-shang-dian-offhand-practice",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-2",
+      "title": "麓湾水集水鸟公园亭 / 口口建筑",
+      "imageUrl": "https://snoopy.archdaily.com/images/archdaily/media/images/6a15/1cf7/9f13/d901/7efa/246e/slideshow/luxefarm-waterbird-park-pavilion-atelier-oo_9.jpg?1779768595&format=webp&width=540&height=580",
+      "sourceUrl": "https://www.archdaily.cn/cn/1041877/lu-wan-shui-ji-shui-niao-gong-yuan-ting-kou-kou-jian-zhu",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-3",
+      "title": "镜面背后：现代公共卫生间的空间节省策略",
+      "imageUrl": "https://snoopy.archdaily.com/images/archdaily/media/images/6917/5461/35d7/5202/112e/2289/slideshow/behind-the-mirror-modern-solutions-for-public-restroom-design_6.jpg?1763136627&format=webp&width=540&height=580",
+      "sourceUrl": "https://www.archdaily.cn/cn/1041721/jing-mian-bei-hou-xian-dai-gong-gong-wei-sheng-jian-de-kong-jian-jie-sheng-ce-lue?ad_campaign=normal-tag",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-4",
+      "title": "西茶谷茶咖：消隐于茶田的观景容器 / 江苏省院安徽分院",
+      "imageUrl": "https://snoopy.archdaily.com/images/archdaily/media/images/6a14/1d10/c171/3c01/7e87/a39a/slideshow/jinzhai-west-tea-valley-star-tea-valley-cafe-jiangsu-province-architectural-d-and-r-institute-c-ltd-anhui-branch_3.jpg?1779703185&format=webp&width=540&height=580",
+      "sourceUrl": "https://www.archdaily.cn/cn/1041820/xi-cha-gu-cha-ka-xiao-yin-yu-cha-tian-de-guan-jing-rong-qi-jiang-su-sheng-yuan-an-hui-fen-yuan",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    }
+  ]
+}

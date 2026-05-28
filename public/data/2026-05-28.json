@@ -1,0 +1,98 @@
+{
+  "date": "2026-05-28",
+  "lastUpdated": "2026-05-28T22:19:11.095Z",
+  "gooood": [
+    {
+      "id": "gooood-0",
+      "title": "日常项目深度报道：Mission Bay - Uber总部大楼 / SHoP建筑事务所",
+      "imageUrl": "https://oss.gooood.cn/uploads/2026/04/uber-headquarter-shop-cover-拷贝-pit.jpg",
+      "sourceUrl": "https://www.gooood.cn/topic-mission-bay-uber-headquarters-by-shop-architects.htm",
+      "source": "gooood",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "gooood-1",
+      "title": "OFFICE真相专辑 NO.57  - 未见筑",
+      "imageUrl": "https://oss.gooood.cn/uploads/2026/03/05-office-fact-LINK-ARC.jpg",
+      "sourceUrl": "https://www.gooood.cn/office-fact-no-57-we-live-architects.htm",
+      "source": "gooood",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "gooood-2",
+      "title": "项目对接服务成功案例分享第二十一期：胡同住宅改造",
+      "imageUrl": "https://oss.gooood.cn/uploads/2026/03/duijie-anli-youshanjianzhu.jpg",
+      "sourceUrl": "https://www.gooood.cn/get-project-case-hutong-house-renovation.htm",
+      "source": "gooood",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "gooood-3",
+      "title": "在海外专辑第一百四十七期 – 王晨燕",
+      "imageUrl": "https://oss.gooood.cn/uploads/2026/03/OVERSEAcover_wangyancheng-拷贝.jpg",
+      "sourceUrl": "https://www.gooood.cn/overseas-chenyan-wang.htm",
+      "source": "gooood",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "gooood-4",
+      "title": "OFFICE真相专辑 NO.56  - Link-Arc建筑事务所",
+      "imageUrl": "https://oss.gooood.cn/uploads/2026/02/00-office-fact-LINK-ARC-ync.jpg",
+      "sourceUrl": "https://www.gooood.cn/office-fact-studio-link-arc.htm",
+      "source": "gooood",
+      "architect": null,
+      "category": null
+    }
+  ],
+  "archdaily": [
+    {
+      "id": "archdaily-0",
+      "title": "轻井泽之家 / nao architects office + Studio Hashimura",
+      "imageUrl": "https://images.adsttc.com/media/images/69ee/cb81/e2d9/9109/703c/eddc/medium_jpg/house-in-karuizawa-nao-architects-office-plus-studio-hashimura_1.jpg?1777257373",
+      "sourceUrl": "https://www.archdaily.cn/cn/1041453/qing-jing-ze-zhi-jia-nao-architects-office-plus-studio-hashimura",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-1",
+      "title": "TN 住宅 / 1-1 Architects",
+      "imageUrl": "https://images.adsttc.com/media/images/69eb/80b3/2f06/ec00/01cd/0603/medium_jpg/L028_House_TN_adj.jpg?1777042084",
+      "sourceUrl": "https://www.archdaily.cn/cn/1041456/tn-zhu-zhai-1-1-architects",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-2",
+      "title": "Samuel H. Scripps 剧场中心 / Studio Gang",
+      "imageUrl": "https://images.adsttc.com/media/images/6a07/202b/093e/9201/8986/4123/medium_jpg/samuel-h-scripps-theater-center-studio-gang_9.jpg?1778851898",
+      "sourceUrl": "https://www.archdaily.cn/cn/1041819/samuel-h-scripps-ju-chang-zhong-xin-studio-gang",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-4",
+      "title": "皮尼亚泰利蓄水池群：从水利设施到城市公园 / Héctor Fernández Elorza",
+      "imageUrl": "https://snoopy.archdaily.com/images/archdaily/media/images/69b7/d4ed/1d07/d400/0132/46a4/slideshow/Parque_Pignateli_Zaragoza_Spain___He_ctor_F_Elorza___photo___Montse_Zamorano_07.jpg?1773655298&format=webp&width=540&height=580",
+      "sourceUrl": "https://www.archdaily.cn/cn/1040852/pi-ni-ya-tai-li-xu-shui-chi-qun-cong-shui-li-she-shi-dao-cheng-shi-gong-yuan-hector-fernandez-elorza",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-5",
+      "title": "失落犹太小镇犹太博物馆 / Lahdelma & Mahlamäki Architects",
+      "imageUrl": "https://snoopy.archdaily.com/images/archdaily/media/images/69f3/4249/9fd7/2b01/7b02/5cea/slideshow/the-lost-shtetl-jewish-museum-lahdelma-and-mahlamaki-architects_8.jpg?1777549946&format=webp&width=540&height=580",
+      "sourceUrl": "https://www.archdaily.cn/cn/1041416/shi-luo-you-tai-xiao-zhen-you-tai-bo-wu-guan-lahdelma-and-mahlamaki-architects",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    }
+  ]
+}

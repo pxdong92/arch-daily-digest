@@ -1,0 +1,98 @@
+{
+  "date": "2026-05-29",
+  "lastUpdated": "2026-05-29T22:14:54.784Z",
+  "gooood": [
+    {
+      "id": "gooood-0",
+      "title": "日常项目深度报道：Mission Bay - Uber总部大楼 / SHoP建筑事务所",
+      "imageUrl": "https://oss.gooood.cn/uploads/2026/04/uber-headquarter-shop-cover-拷贝-pit.jpg",
+      "sourceUrl": "https://www.gooood.cn/topic-mission-bay-uber-headquarters-by-shop-architects.htm",
+      "source": "gooood",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "gooood-1",
+      "title": "OFFICE真相专辑 NO.57  - 未见筑",
+      "imageUrl": "https://oss.gooood.cn/uploads/2026/03/05-office-fact-LINK-ARC.jpg",
+      "sourceUrl": "https://www.gooood.cn/office-fact-no-57-we-live-architects.htm",
+      "source": "gooood",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "gooood-2",
+      "title": "项目对接服务成功案例分享第二十一期：胡同住宅改造",
+      "imageUrl": "https://oss.gooood.cn/uploads/2026/03/duijie-anli-youshanjianzhu.jpg",
+      "sourceUrl": "https://www.gooood.cn/get-project-case-hutong-house-renovation.htm",
+      "source": "gooood",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "gooood-3",
+      "title": "在海外专辑第一百四十七期 – 王晨燕",
+      "imageUrl": "https://oss.gooood.cn/uploads/2026/03/OVERSEAcover_wangyancheng-拷贝.jpg",
+      "sourceUrl": "https://www.gooood.cn/overseas-chenyan-wang.htm",
+      "source": "gooood",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "gooood-4",
+      "title": "OFFICE真相专辑 NO.56  - Link-Arc建筑事务所",
+      "imageUrl": "https://oss.gooood.cn/uploads/2026/02/00-office-fact-LINK-ARC-ync.jpg",
+      "sourceUrl": "https://www.gooood.cn/office-fact-studio-link-arc.htm",
+      "source": "gooood",
+      "architect": null,
+      "category": null
+    }
+  ],
+  "archdaily": [
+    {
+      "id": "archdaily-0",
+      "title": "草原方舟及游牧人灯塔 / BUZZ建筑事务所",
+      "imageUrl": "https://images.adsttc.com/media/images/6a17/b640/35eb/2400/01f0/47b6/medium_jpg/_________-2.jpg?1779938900",
+      "sourceUrl": "https://www.archdaily.cn/cn/1041941/cao-yuan-fang-zhou-ji-you-mu-ren-deng-ta-buzzjian-zhu-shi-wu-suo",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-1",
+      "title": "青浦汽检：工业厂房改造 / 无样建筑工作室",
+      "imageUrl": "https://images.adsttc.com/media/images/6a16/d39b/093e/9201/8986/6a10/medium_jpg/qingpu-vehicle-inspection-station-wuyang-architecture_11.jpg?1779880882",
+      "sourceUrl": "https://www.archdaily.cn/cn/1041942/qing-pu-qi-jian-gong-ye-han-fang-gai-zao-wu-yang-jian-zhu-gong-zuo-shi",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-2",
+      "title": "亚斯之家 / Wright Inspires",
+      "imageUrl": "https://images.adsttc.com/media/images/6a10/7515/35eb/2400/01f0/448f/medium_jpg/IMG_0396.jpg?1779463502",
+      "sourceUrl": "https://www.archdaily.cn/cn/1041878/ya-si-zhi-jia-wright-inspires",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-3",
+      "title": "设计一个品牌：苹果如何构建了一套由玻璃与秩序组成的建筑语言",
+      "imageUrl": "https://images.adsttc.com/media/images/69e3/d4c5/1afd/7001/8891/420e/medium_jpg/designing-the-brand-how-apple-built-an-architectural-language_16.jpg?1776538918",
+      "sourceUrl": "https://www.archdaily.cn/cn/1041552/she-ji-ge-pin-pai-ping-guo-ru-he-gou-jian-liao-tao-you-bo-li-yu-zhi-xu-zu-cheng-de-jian-zhu-yu-yan",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-4",
+      "title": "Herzog & de Meuron 设计的巴黎三角塔楼即将竣工",
+      "imageUrl": "https://images.adsttc.com/media/images/6a13/5ca8/093e/9201/8986/5fd8/medium_jpg/herzog-and-de-meurons-triangle-tower-in-paris-nears-completion-captured-by-stefano-candito_9.jpg?1779653807",
+      "sourceUrl": "https://www.archdaily.cn/cn/1041883/herzog-and-de-meuron-she-ji-de-ba-li-san-jiao-ta-lou-ji-jiang-jun-gong",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    }
+  ]
+}

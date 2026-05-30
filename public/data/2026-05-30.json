@@ -1,0 +1,98 @@
+{
+  "date": "2026-05-30",
+  "lastUpdated": "2026-05-30T19:59:41.728Z",
+  "gooood": [
+    {
+      "id": "gooood-0",
+      "title": "日常项目深度报道：Mission Bay - Uber总部大楼 / SHoP建筑事务所",
+      "imageUrl": "https://oss.gooood.cn/uploads/2026/04/uber-headquarter-shop-cover-拷贝-pit.jpg",
+      "sourceUrl": "https://www.gooood.cn/topic-mission-bay-uber-headquarters-by-shop-architects.htm",
+      "source": "gooood",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "gooood-1",
+      "title": "OFFICE真相专辑 NO.57  - 未见筑",
+      "imageUrl": "https://oss.gooood.cn/uploads/2026/03/05-office-fact-LINK-ARC.jpg",
+      "sourceUrl": "https://www.gooood.cn/office-fact-no-57-we-live-architects.htm",
+      "source": "gooood",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "gooood-2",
+      "title": "项目对接服务成功案例分享第二十一期：胡同住宅改造",
+      "imageUrl": "https://oss.gooood.cn/uploads/2026/03/duijie-anli-youshanjianzhu.jpg",
+      "sourceUrl": "https://www.gooood.cn/get-project-case-hutong-house-renovation.htm",
+      "source": "gooood",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "gooood-3",
+      "title": "在海外专辑第一百四十七期 – 王晨燕",
+      "imageUrl": "https://oss.gooood.cn/uploads/2026/03/OVERSEAcover_wangyancheng-拷贝.jpg",
+      "sourceUrl": "https://www.gooood.cn/overseas-chenyan-wang.htm",
+      "source": "gooood",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "gooood-4",
+      "title": "OFFICE真相专辑 NO.56  - Link-Arc建筑事务所",
+      "imageUrl": "https://oss.gooood.cn/uploads/2026/02/00-office-fact-LINK-ARC-ync.jpg",
+      "sourceUrl": "https://www.gooood.cn/office-fact-studio-link-arc.htm",
+      "source": "gooood",
+      "architect": null,
+      "category": null
+    }
+  ],
+  "archdaily": [
+    {
+      "id": "archdaily-0",
+      "title": "金字塔住宅 / Khan Bonshek",
+      "imageUrl": "https://images.adsttc.com/media/images/6a02/465d/fda2/da01/89bd/d047/medium_jpg/pyramid-house-khan-bonshek_22.jpg?1778534095",
+      "sourceUrl": "https://www.archdaily.cn/cn/1041637/jin-zi-ta-zhu-zhai-khan-bonshek",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-1",
+      "title": "南特创新办公楼 / Baumschlager Eberle Architekten",
+      "imageUrl": "https://snoopy.archdaily.com/images/archdaily/media/images/6a04/6bef/a59b/8300/01a7/f740/slideshow/1._Focus_point_in_the_street_axis.jpg?1778674734&format=webp&width=540&height=580",
+      "sourceUrl": "https://www.archdaily.cn/cn/1041616/nan-te-chuang-xin-ban-gong-lou-baumschlager-eberle-architekten",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-2",
+      "title": "草原方舟及游牧人灯塔 / BUZZ建筑事务所",
+      "imageUrl": "https://snoopy.archdaily.com/images/archdaily/media/images/6a17/b640/35eb/2400/01f0/47b6/slideshow/_________-2.jpg?1779938900&format=webp&width=540&height=580",
+      "sourceUrl": "https://www.archdaily.cn/cn/1041941/cao-yuan-fang-zhou-ji-you-mu-ren-deng-ta-buzzjian-zhu-shi-wu-suo",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-3",
+      "title": "青浦汽检：工业厂房改造 / 无样建筑工作室",
+      "imageUrl": "https://snoopy.archdaily.com/images/archdaily/media/images/6a16/d39b/093e/9201/8986/6a10/slideshow/qingpu-vehicle-inspection-station-wuyang-architecture_11.jpg?1779880882&format=webp&width=540&height=580",
+      "sourceUrl": "https://www.archdaily.cn/cn/1041942/qing-pu-qi-jian-gong-ye-han-fang-gai-zao-wu-yang-jian-zhu-gong-zuo-shi?ad_campaign=normal-tag",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-4",
+      "title": "亚斯之家 / Wright Inspires",
+      "imageUrl": "https://snoopy.archdaily.com/images/archdaily/media/images/6a10/7515/35eb/2400/01f0/448f/slideshow/IMG_0396.jpg?1779463502&format=webp&width=540&height=580",
+      "sourceUrl": "https://www.archdaily.cn/cn/1041878/ya-si-zhi-jia-wright-inspires",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    }
+  ]
+}

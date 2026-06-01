@@ -1,0 +1,98 @@
+{
+  "date": "2026-06-01",
+  "lastUpdated": "2026-06-01T23:11:58.961Z",
+  "gooood": [
+    {
+      "id": "gooood-0",
+      "title": "日常项目深度报道：Mission Bay - Uber总部大楼 / SHoP建筑事务所",
+      "imageUrl": "https://oss.gooood.cn/uploads/2026/04/uber-headquarter-shop-cover-拷贝-pit.jpg",
+      "sourceUrl": "https://www.gooood.cn/topic-mission-bay-uber-headquarters-by-shop-architects.htm",
+      "source": "gooood",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "gooood-1",
+      "title": "OFFICE真相专辑 NO.57  - 未见筑",
+      "imageUrl": "https://oss.gooood.cn/uploads/2026/03/05-office-fact-LINK-ARC.jpg",
+      "sourceUrl": "https://www.gooood.cn/office-fact-no-57-we-live-architects.htm",
+      "source": "gooood",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "gooood-2",
+      "title": "项目对接服务成功案例分享第二十一期：胡同住宅改造",
+      "imageUrl": "https://oss.gooood.cn/uploads/2026/03/duijie-anli-youshanjianzhu.jpg",
+      "sourceUrl": "https://www.gooood.cn/get-project-case-hutong-house-renovation.htm",
+      "source": "gooood",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "gooood-3",
+      "title": "在海外专辑第一百四十七期 – 王晨燕",
+      "imageUrl": "https://oss.gooood.cn/uploads/2026/03/OVERSEAcover_wangyancheng-拷贝.jpg",
+      "sourceUrl": "https://www.gooood.cn/overseas-chenyan-wang.htm",
+      "source": "gooood",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "gooood-4",
+      "title": "OFFICE真相专辑 NO.56  - Link-Arc建筑事务所",
+      "imageUrl": "https://oss.gooood.cn/uploads/2026/02/00-office-fact-LINK-ARC-ync.jpg",
+      "sourceUrl": "https://www.gooood.cn/office-fact-studio-link-arc.htm",
+      "source": "gooood",
+      "architect": null,
+      "category": null
+    }
+  ],
+  "archdaily": [
+    {
+      "id": "archdaily-0",
+      "title": "2026 年度日光奖：Bow-Wow 建筑工作室",
+      "imageUrl": "https://images.adsttc.com/media/images/6a0c/0892/fd52/9201/89f2/0c56/medium_jpg/atelier-bow-wow-and-climate-scientists-honored-with-2026-daylight-award-on-unesco-international-day-of-light_14.jpg?1779173530",
+      "sourceUrl": "https://www.archdaily.cn/cn/1041884/bow-wow-jian-zhu-gong-zuo-shi-yu-qi-hou-ke-xue-jia-zai-lian-he-guo-jiao-ke-wen-zu-zhi-guo-ji-guang-ri-rong-huo-2026-nian-du-ri-guang-jiang",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-1",
+      "title": "里卡多·波菲建筑事务所揭晓阿尔巴尼亚德尔米景观度假村方案效果图",
+      "imageUrl": "https://images.adsttc.com/media/images/69f0/19a4/c748/9401/89fb/8b66/medium_jpg/bofill-taller-de-arquitectura-starts-construction-of-landscape-inspired-resort-in-dhermi-albania_11.jpg?1777342967",
+      "sourceUrl": "https://www.archdaily.cn/cn/1041678/li-qia-duo-star-bo-fei-jian-zhu-shi-wu-suo-jie-xiao-a-er-ba-ni-ya-de-er-mi-jing-guan-du-jia-cun-fang-an-xiao-guo-tu",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-2",
+      "title": "青岛海创中心 / WoWA建筑设计事务所",
+      "imageUrl": "https://images.adsttc.com/media/images/6a17/881e/fd52/9207/909d/2e4e/medium_jpg/qingdao-haichuang-center-wowa_7.jpg?1779927090",
+      "sourceUrl": "https://www.archdaily.cn/cn/1042034/qing-dao-hai-chuang-zhong-xin-wowajian-zhu-she-ji-shi-wu-suo",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-3",
+      "title": "半山 1994 青年创客社区 / 九樟营造事务所",
+      "imageUrl": "https://images.adsttc.com/media/images/6a14/59bb/fd52/9201/89f2/241c/medium_jpg/banshan1994-commune-office-canopy-of-architecture_10.jpg?1779718647",
+      "sourceUrl": "https://www.archdaily.cn/cn/1041847/ban-shan-1994-qing-nian-chuang-ke-she-qu-jiu-zhang-ying-zao-shi-wu-suo",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-4",
+      "title": "红谷屋舍 / line+ studio",
+      "imageUrl": "https://images.adsttc.com/media/images/6a17/bf34/fd52/9207/909d/2ea3/medium_jpg/red-valley-dwellings-line-plus-studio_12.jpg?1779941185",
+      "sourceUrl": "https://www.archdaily.cn/cn/1041989/hong-gu-wu-she-line-plus-studio",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "date": "2026-06-02",
+  "lastUpdated": "2026-06-02T23:09:28.230Z",
+  "gooood": [
+    {
+      "id": "gooood-0",
+      "title": "完整视频版：OFFICE真相专辑 NO.58 - 金秋野",
+      "imageUrl": "https://oss.gooood.cn/uploads/2026/06/bold-46-office-fact-jinqiuye.jpg",
+      "sourceUrl": "https://www.gooood.cn/full-video-office-fact-jin-qiuye-studio.htm",
+      "source": "gooood",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "gooood-1",
+      "title": "OFFICE真相专辑 NO.58 - 金秋野",
+      "imageUrl": "https://oss.gooood.cn/uploads/2026/04/00-office-fact-jinqiuye-拷贝.jpg",
+      "sourceUrl": "https://www.gooood.cn/office-fact-jin-qiuye.htm",
+      "source": "gooood",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "gooood-2",
+      "title": "日常项目深度报道：Mission Bay - Uber总部大楼 / SHoP建筑事务所",
+      "imageUrl": "https://oss.gooood.cn/uploads/2026/04/uber-headquarter-shop-cover-拷贝-pit.jpg",
+      "sourceUrl": "https://www.gooood.cn/topic-mission-bay-uber-headquarters-by-shop-architects.htm",
+      "source": "gooood",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "gooood-3",
+      "title": "OFFICE真相专辑 NO.57  - 未见筑",
+      "imageUrl": "https://oss.gooood.cn/uploads/2026/03/05-office-fact-LINK-ARC.jpg",
+      "sourceUrl": "https://www.gooood.cn/office-fact-no-57-we-live-architects.htm",
+      "source": "gooood",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "gooood-4",
+      "title": "项目对接服务成功案例分享第二十一期：胡同住宅改造",
+      "imageUrl": "https://oss.gooood.cn/uploads/2026/03/duijie-anli-youshanjianzhu.jpg",
+      "sourceUrl": "https://www.gooood.cn/get-project-case-hutong-house-renovation.htm",
+      "source": "gooood",
+      "architect": null,
+      "category": null
+    }
+  ],
+  "archdaily": [
+    {
+      "id": "archdaily-0",
+      "title": "柴集巷街区更新 / 同济大学建筑设计研究院 + 道辰建筑",
+      "imageUrl": "https://images.adsttc.com/media/images/6a1d/f1b3/fd52/922d/0b0b/9a72/medium_jpg/renewal-experiment-of-chaiji-lane-tjad_5.jpg?1780347328",
+      "sourceUrl": "https://www.archdaily.cn/cn/1042074/chai-ji-xiang-jie-qu-geng-xin-tong-ji-da-xue-jian-zhu-she-ji-yan-jiu-yuan-plus-dao-chen-jian-zhu",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-1",
+      "title": "深圳明湾学校 / Perkins&Will",
+      "imageUrl": "https://images.adsttc.com/media/images/6a1d/ab9a/093e/927a/6386/e2f9/medium_jpg/shenzhen-mingwan-school-perkins-and-will_1.jpg?1780329523",
+      "sourceUrl": "https://www.archdaily.cn/cn/1042076/shen-zhen-ming-wan-xue-xiao-perkins-and-will",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-2",
+      "title": "深圳沙井“宅基地”改造 / 墨照建筑设计事务所",
+      "imageUrl": "https://images.adsttc.com/media/images/6a1e/1cea/bf81/6401/7e20/58bc/medium_jpg/renovation-of-homestead-land-in-shenzhen-shajing-mozhao-architects_14.jpg?1780358411",
+      "sourceUrl": "https://www.archdaily.cn/cn/1042073/shen-zhen-sha-jing-zhai-ji-di-gai-zao-mo-zhao-jian-zhu-she-ji-shi-wu-suo",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-3",
+      "title": "Delta 商务中心，浮在草坡上的彩色“像素云” / Picharchitects/Pich-Aguilera",
+      "imageUrl": "https://images.adsttc.com/media/images/69ea/2ff8/345f/bc00/0189/c49c/medium_jpg/02__87A2147.jpg?1776955426",
+      "sourceUrl": "https://www.archdaily.cn/cn/1041945/delta-shang-wu-zhong-xin-fu-zai-cao-po-shang-de-cai-se-xiang-su-yun-picharchitects-pich-aguilera",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-4",
+      "title": "巴旺沙丘住宅 / Eliza Blair Architecture",
+      "imageUrl": "https://images.adsttc.com/media/images/6a10/745b/fd52/9201/89f2/1f84/medium_jpg/barwon-dunes-house-eliza-blair-architecture_8.jpg?1779463277",
+      "sourceUrl": "https://www.archdaily.cn/cn/1041986/ba-wang-sha-qiu-zhu-zhai-eliza-blair-architecture",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    }
+  ]
+}

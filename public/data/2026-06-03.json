@@ -1,0 +1,98 @@
+{
+  "date": "2026-06-03",
+  "lastUpdated": "2026-06-03T23:14:49.961Z",
+  "gooood": [
+    {
+      "id": "gooood-0",
+      "title": "完整视频版：OFFICE真相专辑 NO.58 - 金秋野",
+      "imageUrl": "https://oss.gooood.cn/uploads/2026/06/bold-46-office-fact-jinqiuye.jpg",
+      "sourceUrl": "https://www.gooood.cn/full-video-office-fact-jin-qiuye-studio.htm",
+      "source": "gooood",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "gooood-1",
+      "title": "OFFICE真相专辑 NO.58 - 金秋野",
+      "imageUrl": "https://oss.gooood.cn/uploads/2026/04/00-office-fact-jinqiuye-拷贝.jpg",
+      "sourceUrl": "https://www.gooood.cn/office-fact-jin-qiuye.htm",
+      "source": "gooood",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "gooood-2",
+      "title": "日常项目深度报道：Mission Bay - Uber总部大楼 / SHoP建筑事务所",
+      "imageUrl": "https://oss.gooood.cn/uploads/2026/04/uber-headquarter-shop-cover-拷贝-pit.jpg",
+      "sourceUrl": "https://www.gooood.cn/topic-mission-bay-uber-headquarters-by-shop-architects.htm",
+      "source": "gooood",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "gooood-3",
+      "title": "OFFICE真相专辑 NO.57  - 未见筑",
+      "imageUrl": "https://oss.gooood.cn/uploads/2026/03/05-office-fact-LINK-ARC.jpg",
+      "sourceUrl": "https://www.gooood.cn/office-fact-no-57-we-live-architects.htm",
+      "source": "gooood",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "gooood-4",
+      "title": "项目对接服务成功案例分享第二十一期：胡同住宅改造",
+      "imageUrl": "https://oss.gooood.cn/uploads/2026/03/duijie-anli-youshanjianzhu.jpg",
+      "sourceUrl": "https://www.gooood.cn/get-project-case-hutong-house-renovation.htm",
+      "source": "gooood",
+      "architect": null,
+      "category": null
+    }
+  ],
+  "archdaily": [
+    {
+      "id": "archdaily-0",
+      "title": "从滑板者的视角重新思考公共空间",
+      "imageUrl": "https://images.adsttc.com/media/images/691b/208c/bd4b/8007/0666/68a0/medium_jpg/how-skateboarding-is-redefining-urban-space_39.jpg?1763385500",
+      "sourceUrl": "https://www.archdaily.cn/cn/1041683/cong-hua-ban-zhe-de-shi-jiao-zhong-xin-si-kao-gong-gong-kong-jian",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-1",
+      "title": "临时剧场与 L56 多功能厅l / Vidic Grohar",
+      "imageUrl": "https://images.adsttc.com/media/images/6a0b/7d3e/093e/926e/4a2d/2f59/medium_jpg/temporary-theater-drama-and-l56-multipurpose-hall-vidic-grohar_11.jpg?1779137878",
+      "sourceUrl": "https://www.archdaily.cn/cn/1041851/lin-shi-ju-chang-yu-l56-duo-gong-neng-ting-l-vidic-grohar",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-2",
+      "title": "街头艺术家 JR 在巴黎新桥安装充气“洞穴”，致敬克里斯托与让娜-克洛德",
+      "imageUrl": "https://images.adsttc.com/media/images/6a0f/81d6/093e/9201/8986/57ca/medium_jpg/la-caverne-du-pont-neuf_17.jpg?1779401214",
+      "sourceUrl": "https://www.archdaily.cn/cn/1041938/jie-tou-yi-zhu-jia-jr-zai-ba-li-xin-qiao-an-zhuang-chong-qi-dong-xue-zhi-jing-ke-li-si-tuo-yu-rang-nuo-ke-luo-de",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-3",
+      "title": "JGG I 购物中心 / OMAC Arquitectos",
+      "imageUrl": "https://images.adsttc.com/media/images/69e6/2018/8471/2000/01f8/eb99/medium_jpg/Terraza_JGG-_Omac_Arq-_Foto_Ariadna_Polo-02.jpg?1776689223",
+      "sourceUrl": "https://www.archdaily.cn/cn/1041944/jgg-i-gou-wu-zhong-xin-omac-arquitectos",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-4",
+      "title": "Hiwa - 奥克兰大学娱乐中心 / Warren and Mahoney + MJMA",
+      "imageUrl": "https://images.adsttc.com/media/images/6a14/d158/093e/9201/8986/62c6/medium_jpg/hiwa-the-university-of-auckland-recreation-centre-warren-and-mahoney_5.jpg?1779749226",
+      "sourceUrl": "https://www.archdaily.cn/cn/1041988/hiwa-ao-ke-lan-da-xue-yu-le-zhong-xin-warren-and-mahoney-plus-mjma",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    }
+  ]
+}

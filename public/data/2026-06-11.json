@@ -1,0 +1,98 @@
+{
+  "date": "2026-06-11",
+  "lastUpdated": "2026-06-11T18:39:10.438Z",
+  "gooood": [
+    {
+      "id": "gooood-0",
+      "title": "完整视频版：OFFICE真相专辑 NO.58 - 金秋野",
+      "imageUrl": "https://oss.gooood.cn/uploads/2026/06/bold-46-office-fact-jinqiuye.jpg",
+      "sourceUrl": "https://www.gooood.cn/full-video-office-fact-jin-qiuye-studio.htm",
+      "source": "gooood",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "gooood-1",
+      "title": "OFFICE真相专辑 NO.58 - 金秋野",
+      "imageUrl": "https://oss.gooood.cn/uploads/2026/04/00-office-fact-jinqiuye-拷贝.jpg",
+      "sourceUrl": "https://www.gooood.cn/office-fact-jin-qiuye.htm",
+      "source": "gooood",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "gooood-2",
+      "title": "日常项目深度报道：Mission Bay - Uber总部大楼 / SHoP建筑事务所",
+      "imageUrl": "https://oss.gooood.cn/uploads/2026/04/uber-headquarter-shop-cover-拷贝-pit.jpg",
+      "sourceUrl": "https://www.gooood.cn/topic-mission-bay-uber-headquarters-by-shop-architects.htm",
+      "source": "gooood",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "gooood-3",
+      "title": "OFFICE真相专辑 NO.57  - 未见筑",
+      "imageUrl": "https://oss.gooood.cn/uploads/2026/03/05-office-fact-LINK-ARC.jpg",
+      "sourceUrl": "https://www.gooood.cn/office-fact-no-57-we-live-architects.htm",
+      "source": "gooood",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "gooood-4",
+      "title": "项目对接服务成功案例分享第二十一期：胡同住宅改造",
+      "imageUrl": "https://oss.gooood.cn/uploads/2026/03/duijie-anli-youshanjianzhu.jpg",
+      "sourceUrl": "https://www.gooood.cn/get-project-case-hutong-house-renovation.htm",
+      "source": "gooood",
+      "architect": null,
+      "category": null
+    }
+  ],
+  "archdaily": [
+    {
+      "id": "archdaily-0",
+      "title": "基亚内文化与生态中心第二期 / Universidad de Ciencias Aplicadas de Múnich + Frente por la Defensa de la Tierra + Comunidad de Santa Catarina Quiané + CAMPO + Atarraya Taller de Arquitectura",
+      "imageUrl": "https://images.adsttc.com/media/images/69f0/ba8b/e0a7/c201/892c/a708/medium_jpg/centro-de-cultura-y-ecologia-quiane-fase-2-universidad-de-ciencias-aplicadas-de-munich-plus-frente-por-la-defensa-de-la-tierra-plus-comunidad-de-santa-catarina-quiane-plus-campo-plus-atarraya-taller-de-arquitectura_22.jpg?1777384169",
+      "sourceUrl": "https://www.archdaily.cn/cn/1042042/ji-ya-nei-wen-hua-yu-sheng-tai-zhong-xin-di-er-qi-universidad-de-ciencias-aplicadas-de-munich-plus-frente-por-la-defensa-de-la-tierra-plus-comunidad-de-santa-catarina-quiane-plus-campo-plus-atarraya-taller-de-arquitectura",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-1",
+      "title": "特雷西纳市立环境学校 / Rômulo Marques-Carvalho + Ana Lucia Ribeiro Camillo da Silveira",
+      "imageUrl": "https://images.adsttc.com/media/images/69e1/464a/8471/2000/01f8/ea23/medium_jpg/Cortesia_de_LucasFerreira_13.jpg?1776371338",
+      "sourceUrl": "https://www.archdaily.cn/cn/1041990/te-lei-xi-na-shi-li-huan-jing-xue-xiao-romulo-marques-carvalho-plus-ana-lucia-ribeiro-camillo-da-silveira",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-2",
+      "title": "沙勒罗瓦展览宫改造 / AgwA + architecten jan de vylder inge vinck",
+      "imageUrl": "https://images.adsttc.com/media/images/6a0b/9dbf/fd52/9201/89f2/0b70/medium_jpg/charleroi-palais-des-expositions-agwa-plus-architecten-jan-de-vylder-inge-vinck_5.jpg?1779146225",
+      "sourceUrl": "https://www.archdaily.cn/cn/1041853/sha-le-luo-wa-zhan-lan-gong-gai-zao-agwa-plus-architecten-jan-de-vylder-inge-vinck",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-3",
+      "title": "\"校准的不稳定\"：达里安·克诺布劳赫谈以张力、时间与光构建建筑",
+      "imageUrl": "https://images.adsttc.com/media/images/69f1/83f2/c748/9401/89fb/90ec/medium_jpg/calibrated-instability-daryan-knoblauch-on-membranes-tension-and-architectural-temporality_1.jpg?1777435644",
+      "sourceUrl": "https://www.archdaily.cn/cn/1041606/xiao-zhun-de-bu-wen-ding-da-li-an-star-ke-nuo-bu-lao-he-tan-yi-zhang-li-shi-jian-yu-guang-gou-jian-jian-zhu",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-4",
+      "title": "悉尼西米德儿童医院 / Billard Leece Partnership",
+      "imageUrl": "https://images.adsttc.com/media/images/6a1e/bb2f/bf81/6401/7e20/5b91/medium_jpg/childrens-hospital-at-westmead-billard-leece-partnership_1.jpg?1780398922",
+      "sourceUrl": "https://www.archdaily.cn/cn/1042239/xi-ni-xi-mi-de-er-tong-yi-yuan-billard-leece-partnership",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    }
+  ]
+}

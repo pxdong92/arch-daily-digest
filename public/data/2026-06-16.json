@@ -1,0 +1,98 @@
+{
+  "date": "2026-06-16",
+  "lastUpdated": "2026-06-16T19:26:01.528Z",
+  "gooood": [
+    {
+      "id": "gooood-0",
+      "title": "完整视频版：办公室真相 NO.59 - 谱观建筑",
+      "imageUrl": "https://oss.gooood.cn/uploads/2026/06/0fulvideo-office-fact-puguan_副本2-拷贝.jpg",
+      "sourceUrl": "https://www.gooood.cn/full-video-office-fact-spactrum.htm",
+      "source": "gooood",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "gooood-1",
+      "title": "办公室真相 NO.59 - 谱观建筑",
+      "imageUrl": "https://oss.gooood.cn/uploads/2026/05/00-office-fact-puguan-拷贝.jpg",
+      "sourceUrl": "https://www.gooood.cn/office-fact-spactrum.htm",
+      "source": "gooood",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "gooood-2",
+      "title": "完整视频版：OFFICE真相专辑 NO.58 - 金秋野",
+      "imageUrl": "https://oss.gooood.cn/uploads/2026/06/bold-46-office-fact-jinqiuye.jpg",
+      "sourceUrl": "https://www.gooood.cn/full-video-office-fact-jin-qiuye-studio.htm",
+      "source": "gooood",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "gooood-3",
+      "title": "OFFICE真相专辑 NO.58 - 金秋野",
+      "imageUrl": "https://oss.gooood.cn/uploads/2026/04/00-office-fact-jinqiuye-拷贝.jpg",
+      "sourceUrl": "https://www.gooood.cn/office-fact-jin-qiuye.htm",
+      "source": "gooood",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "gooood-4",
+      "title": "日常项目深度报道：Mission Bay - Uber总部大楼 / SHoP建筑事务所",
+      "imageUrl": "https://oss.gooood.cn/uploads/2026/04/uber-headquarter-shop-cover-拷贝-pit.jpg",
+      "sourceUrl": "https://www.gooood.cn/topic-mission-bay-uber-headquarters-by-shop-architects.htm",
+      "source": "gooood",
+      "architect": null,
+      "category": null
+    }
+  ],
+  "archdaily": [
+    {
+      "id": "archdaily-0",
+      "title": "基亚内文化与生态中心第二期 / Universidad de Ciencias Aplicadas de Múnich + Frente por la Defensa de la Tierra + Comunidad de Santa Catarina Quiané + CAMPO + Atarraya Taller de Arquitectura",
+      "imageUrl": "https://snoopy.archdaily.com/images/archdaily/media/images/69f0/ba8b/e0a7/c201/892c/a708/slideshow/centro-de-cultura-y-ecologia-quiane-fase-2-universidad-de-ciencias-aplicadas-de-munich-plus-frente-por-la-defensa-de-la-tierra-plus-comunidad-de-santa-catarina-quiane-plus-campo-plus-atarraya-taller-de-arquitectura_22.jpg?1777384169&format=webp&width=540&height=580",
+      "sourceUrl": "https://www.archdaily.cn/cn/1042042/ji-ya-nei-wen-hua-yu-sheng-tai-zhong-xin-di-er-qi-universidad-de-ciencias-aplicadas-de-munich-plus-frente-por-la-defensa-de-la-tierra-plus-comunidad-de-santa-catarina-quiane-plus-campo-plus-atarraya-taller-de-arquitectura",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-1",
+      "title": "蒂黑帆船码头 / RS + Robert Skitek",
+      "imageUrl": "https://images.adsttc.com/media/images/6a0f/0b7c/35eb/2400/01f0/41e4/medium_jpg/marina_fot.Tomasz_Zakrzewski_01.jpg?1779370898",
+      "sourceUrl": "https://www.archdaily.cn/cn/1041987/di-hei-fan-chuan-ma-tou-rs-plus-robert-skitek",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-2",
+      "title": "伊斯坦布尔贝曼船厂 / OMA",
+      "imageUrl": "https://images.adsttc.com/media/images/6a2a/bada/6341/4201/8a2c/32d0/medium_jpg/beymen-tersane-oma_2.jpg?1781185296",
+      "sourceUrl": "https://www.archdaily.cn/cn/1042473/yi-si-tan-bu-er-bei-man-chuan-han-oma",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-3",
+      "title": "“材料是故事的起点”：NEiDA 工作室谈以工艺与语境为依托的建筑创作",
+      "imageUrl": "https://images.adsttc.com/media/images/69d4/81f0/7950/3073/fb26/a392/medium_jpg/material-is-where-the-story-begins-a-q-and-a-with-studio-neida_9.jpg?1775534583",
+      "sourceUrl": "https://www.archdaily.cn/cn/1041241/cai-liao-shi-gu-shi-de-qi-dian-neida-gong-zuo-shi-tan-yi-gong-yi-yu-yu-jing-wei-yi-tuo-de-jian-zhu-chuang-zuo",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-4",
+      "title": "北京森与天成社区中心 / PLAT ASIA",
+      "imageUrl": "https://snoopy.archdaily.com/images/archdaily/media/images/6a2b/c34a/712c/db00/01fb/e1dc/slideshow/01_______________Zhu_Yumeng.jpg?1781252955&format=webp&width=540&height=580",
+      "sourceUrl": "https://www.archdaily.cn/cn/1042402/bei-jing-sen-yu-tian-cheng-she-qu-zhong-xin-plat-asia",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    }
+  ]
+}

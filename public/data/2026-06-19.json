@@ -1,0 +1,98 @@
+{
+  "date": "2026-06-19",
+  "lastUpdated": "2026-06-19T17:46:18.457Z",
+  "gooood": [
+    {
+      "id": "gooood-0",
+      "title": "完整视频版：办公室真相 NO.59 - 谱观建筑",
+      "imageUrl": "https://oss.gooood.cn/uploads/2026/06/0fulvideo-office-fact-puguan_副本2-拷贝.jpg",
+      "sourceUrl": "https://www.gooood.cn/full-video-office-fact-spactrum.htm",
+      "source": "gooood",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "gooood-1",
+      "title": "办公室真相 NO.59 - 谱观建筑",
+      "imageUrl": "https://oss.gooood.cn/uploads/2026/05/00-office-fact-puguan-拷贝.jpg",
+      "sourceUrl": "https://www.gooood.cn/office-fact-spactrum.htm",
+      "source": "gooood",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "gooood-2",
+      "title": "完整视频版：OFFICE真相专辑 NO.58 - 金秋野",
+      "imageUrl": "https://oss.gooood.cn/uploads/2026/06/bold-46-office-fact-jinqiuye.jpg",
+      "sourceUrl": "https://www.gooood.cn/full-video-office-fact-jin-qiuye-studio.htm",
+      "source": "gooood",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "gooood-3",
+      "title": "OFFICE真相专辑 NO.58 - 金秋野",
+      "imageUrl": "https://oss.gooood.cn/uploads/2026/04/00-office-fact-jinqiuye-拷贝.jpg",
+      "sourceUrl": "https://www.gooood.cn/office-fact-jin-qiuye.htm",
+      "source": "gooood",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "gooood-4",
+      "title": "日常项目深度报道：Mission Bay - Uber总部大楼 / SHoP建筑事务所",
+      "imageUrl": "https://oss.gooood.cn/uploads/2026/04/uber-headquarter-shop-cover-拷贝-pit.jpg",
+      "sourceUrl": "https://www.gooood.cn/topic-mission-bay-uber-headquarters-by-shop-architects.htm",
+      "source": "gooood",
+      "architect": null,
+      "category": null
+    }
+  ],
+  "archdaily": [
+    {
+      "id": "archdaily-0",
+      "title": "基亚内文化与生态中心第二期 / Universidad de Ciencias Aplicadas de Múnich + Frente por la Defensa de la Tierra + Comunidad de Santa Catarina Quiané + CAMPO + Atarraya Taller de Arquitectura",
+      "imageUrl": "https://snoopy.archdaily.com/images/archdaily/media/images/69f0/ba8b/e0a7/c201/892c/a708/slideshow/centro-de-cultura-y-ecologia-quiane-fase-2-universidad-de-ciencias-aplicadas-de-munich-plus-frente-por-la-defensa-de-la-tierra-plus-comunidad-de-santa-catarina-quiane-plus-campo-plus-atarraya-taller-de-arquitectura_22.jpg?1777384169&format=webp&width=540&height=580",
+      "sourceUrl": "https://www.archdaily.cn/cn/1042042/ji-ya-nei-wen-hua-yu-sheng-tai-zhong-xin-di-er-qi-universidad-de-ciencias-aplicadas-de-munich-plus-frente-por-la-defensa-de-la-tierra-plus-comunidad-de-santa-catarina-quiane-plus-campo-plus-atarraya-taller-de-arquitectura",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-1",
+      "title": "格罗斯费尔德西德朗公共游泳池 / Illiz Architektur",
+      "imageUrl": "https://images.adsttc.com/media/images/69d7/98e0/5a31/3100/01da/ee1c/medium_jpg/illiz_trainingsschwimmhalle-grossfeldsiedlung-a15_hehu.jpg?1775737084",
+      "sourceUrl": "https://www.archdaily.cn/cn/1041341/ge-luo-si-fei-er-de-xi-de-lang-gong-gong-you-yong-chi-illiz-architektur",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-2",
+      "title": "一门社工作间 2026 / amass",
+      "imageUrl": "https://images.adsttc.com/media/images/6a32/621a/54d7/6a00/01cc/6507/medium_jpg/amass_amass_workroom_LiBin_26.jpg?1781686827",
+      "sourceUrl": "https://www.archdaily.cn/cn/1042517/men-she-gong-zuo-jian-2026-amass",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-3",
+      "title": "芸溪谷·周洛 / 水木言空间设计",
+      "imageUrl": "https://images.adsttc.com/media/images/6a32/081d/6c38/481d/a6fa/6343/medium_jpg/yunxi-valley-star-zhouluo-shuimuyan-space-design_3.jpg?1781663794",
+      "sourceUrl": "https://www.archdaily.cn/cn/1042513/yun-xi-gu-star-zhou-luo-shui-mu-yan-kong-jian-she-ji",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-4",
+      "title": "从生产到空间体验：10个当代酿酒厂项目",
+      "imageUrl": "https://snoopy.archdaily.com/images/archdaily/media/images/6a06/6082/093e/9201/8986/3ea7/slideshow/10-destilarias_3.jpg?1778802827&format=webp&width=540&height=580",
+      "sourceUrl": "https://www.archdaily.cn/cn/1042283/cong-sheng-chan-dao-kong-jian-ti-yan-10ge-dang-dai-niang-jiu-han-xiang-mu?ad_campaign=normal-tag",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    }
+  ]
+}

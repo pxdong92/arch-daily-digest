@@ -1,0 +1,98 @@
+{
+  "date": "2026-06-22",
+  "lastUpdated": "2026-06-22T19:17:33.070Z",
+  "gooood": [
+    {
+      "id": "gooood-0",
+      "title": "完整视频版：办公室真相 NO.59 - 谱观建筑",
+      "imageUrl": "https://oss.gooood.cn/uploads/2026/06/0fulvideo-office-fact-puguan_副本2-拷贝.jpg",
+      "sourceUrl": "https://www.gooood.cn/full-video-office-fact-spactrum.htm",
+      "source": "gooood",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "gooood-1",
+      "title": "办公室真相 NO.59 - 谱观建筑",
+      "imageUrl": "https://oss.gooood.cn/uploads/2026/05/00-office-fact-puguan-拷贝.jpg",
+      "sourceUrl": "https://www.gooood.cn/office-fact-spactrum.htm",
+      "source": "gooood",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "gooood-2",
+      "title": "完整视频版：OFFICE真相专辑 NO.58 - 金秋野",
+      "imageUrl": "https://oss.gooood.cn/uploads/2026/06/bold-46-office-fact-jinqiuye.jpg",
+      "sourceUrl": "https://www.gooood.cn/full-video-office-fact-jin-qiuye-studio.htm",
+      "source": "gooood",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "gooood-3",
+      "title": "OFFICE真相专辑 NO.58 - 金秋野",
+      "imageUrl": "https://oss.gooood.cn/uploads/2026/04/00-office-fact-jinqiuye-拷贝.jpg",
+      "sourceUrl": "https://www.gooood.cn/office-fact-jin-qiuye.htm",
+      "source": "gooood",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "gooood-4",
+      "title": "日常项目深度报道：Mission Bay - Uber总部大楼 / SHoP建筑事务所",
+      "imageUrl": "https://oss.gooood.cn/uploads/2026/04/uber-headquarter-shop-cover-拷贝-pit.jpg",
+      "sourceUrl": "https://www.gooood.cn/topic-mission-bay-uber-headquarters-by-shop-architects.htm",
+      "source": "gooood",
+      "architect": null,
+      "category": null
+    }
+  ],
+  "archdaily": [
+    {
+      "id": "archdaily-0",
+      "title": "基亚内文化与生态中心第二期 / Universidad de Ciencias Aplicadas de Múnich + Frente por la Defensa de la Tierra + Comunidad de Santa Catarina Quiané + CAMPO + Atarraya Taller de Arquitectura",
+      "imageUrl": "https://snoopy.archdaily.com/images/archdaily/media/images/69f0/ba8b/e0a7/c201/892c/a708/slideshow/centro-de-cultura-y-ecologia-quiane-fase-2-universidad-de-ciencias-aplicadas-de-munich-plus-frente-por-la-defensa-de-la-tierra-plus-comunidad-de-santa-catarina-quiane-plus-campo-plus-atarraya-taller-de-arquitectura_22.jpg?1777384169&format=webp&width=540&height=580",
+      "sourceUrl": "https://www.archdaily.cn/cn/1042042/ji-ya-nei-wen-hua-yu-sheng-tai-zhong-xin-di-er-qi-universidad-de-ciencias-aplicadas-de-munich-plus-frente-por-la-defensa-de-la-tierra-plus-comunidad-de-santa-catarina-quiane-plus-campo-plus-atarraya-taller-de-arquitectura",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-1",
+      "title": "适应性再利用：一栋建筑能拥有多少次“新生”？",
+      "imageUrl": "https://images.adsttc.com/media/images/6928/ac32/080a/9a01/88c5/87a6/medium_jpg/adaptive-reuse-how-many-lives-can-a-building-have_10.jpg?1764273207",
+      "sourceUrl": "https://www.archdaily.cn/cn/1039170/gua-ying-xing-zai-li-yong-dong-jian-zhu-neng-yong-you-duo-shao-ci-xin-sheng",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-2",
+      "title": "La Vallée Verte / MVRDV",
+      "imageUrl": "https://images.adsttc.com/media/images/6a21/6ceb/58b9/e001/8919/5275/medium_jpg/la-vallee-verte-mvrdv_1.jpg?1780575495",
+      "sourceUrl": "https://www.archdaily.cn/cn/1042429/la-vallee-verte-mvrdv",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-3",
+      "title": "铁力士山天线塔改造 / Herzog & de Meuron",
+      "imageUrl": "https://images.adsttc.com/media/images/6a2b/262f/6341/4201/8a2c/34c9/medium_jpg/titlis-tower-herzog-and-de-meuron_1.jpg?1781212778",
+      "sourceUrl": "https://www.archdaily.cn/cn/1042474/tie-li-shi-shan-tian-xian-ta-gai-zao-herzog-and-de-meuron",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-4",
+      "title": "Heatherwick Studio+SPPARC “伦敦奥林匹亚改造一期”现已竣工",
+      "imageUrl": "https://images.adsttc.com/media/images/6a2f/cf1a/6341/4201/8a2c/3fca/medium_jpg/heatherwick-studio-and-spparc-unveil-first-phase-of-olympias-transformation-in-west-london_6.jpg?1781518332",
+      "sourceUrl": "https://www.archdaily.cn/cn/1042438/you-heatherwick-studio-yu-spparclian-he-she-ji-de-lun-dun-ao-lin-pi-ya-gai-zao-qi-xian-yi-jun-gong",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "date": "2026-06-23",
+  "lastUpdated": "2026-06-23T17:43:23.539Z",
+  "gooood": [
+    {
+      "id": "gooood-0",
+      "title": "完整视频版：办公室真相 NO.59 - 谱观建筑",
+      "imageUrl": "https://oss.gooood.cn/uploads/2026/06/0fulvideo-office-fact-puguan_副本2-拷贝.jpg",
+      "sourceUrl": "https://www.gooood.cn/full-video-office-fact-spactrum.htm",
+      "source": "gooood",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "gooood-1",
+      "title": "办公室真相 NO.59 - 谱观建筑",
+      "imageUrl": "https://oss.gooood.cn/uploads/2026/05/00-office-fact-puguan-拷贝.jpg",
+      "sourceUrl": "https://www.gooood.cn/office-fact-spactrum.htm",
+      "source": "gooood",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "gooood-2",
+      "title": "完整视频版：OFFICE真相专辑 NO.58 - 金秋野",
+      "imageUrl": "https://oss.gooood.cn/uploads/2026/06/bold-46-office-fact-jinqiuye.jpg",
+      "sourceUrl": "https://www.gooood.cn/full-video-office-fact-jin-qiuye-studio.htm",
+      "source": "gooood",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "gooood-3",
+      "title": "OFFICE真相专辑 NO.58 - 金秋野",
+      "imageUrl": "https://oss.gooood.cn/uploads/2026/04/00-office-fact-jinqiuye-拷贝.jpg",
+      "sourceUrl": "https://www.gooood.cn/office-fact-jin-qiuye.htm",
+      "source": "gooood",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "gooood-4",
+      "title": "日常项目深度报道：Mission Bay - Uber总部大楼 / SHoP建筑事务所",
+      "imageUrl": "https://oss.gooood.cn/uploads/2026/04/uber-headquarter-shop-cover-拷贝-pit.jpg",
+      "sourceUrl": "https://www.gooood.cn/topic-mission-bay-uber-headquarters-by-shop-architects.htm",
+      "source": "gooood",
+      "architect": null,
+      "category": null
+    }
+  ],
+  "archdaily": [
+    {
+      "id": "archdaily-0",
+      "title": "基亚内文化与生态中心第二期 / Universidad de Ciencias Aplicadas de Múnich + Frente por la Defensa de la Tierra + Comunidad de Santa Catarina Quiané + CAMPO + Atarraya Taller de Arquitectura",
+      "imageUrl": "https://images.adsttc.com/media/images/69f0/ba8b/e0a7/c201/892c/a708/medium_jpg/centro-de-cultura-y-ecologia-quiane-fase-2-universidad-de-ciencias-aplicadas-de-munich-plus-frente-por-la-defensa-de-la-tierra-plus-comunidad-de-santa-catarina-quiane-plus-campo-plus-atarraya-taller-de-arquitectura_22.jpg?1777384169",
+      "sourceUrl": "https://www.archdaily.cn/cn/1042042/ji-ya-nei-wen-hua-yu-sheng-tai-zhong-xin-di-er-qi-universidad-de-ciencias-aplicadas-de-munich-plus-frente-por-la-defensa-de-la-tierra-plus-comunidad-de-santa-catarina-quiane-plus-campo-plus-atarraya-taller-de-arquitectura",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-1",
+      "title": "松山湖展演中心 / ZHA",
+      "imageUrl": "https://images.adsttc.com/media/images/6a31/4aba/e62b/f101/8897/354f/medium_jpg/songshan-lake-exhibition-and-performance-centre-zaha-hadid-architects_12.jpg?1781615367",
+      "sourceUrl": "https://www.archdaily.cn/cn/1042637/song-shan-hu-zhan-yan-zhong-xin-zha",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-2",
+      "title": "康斯坦茨的电信塔楼 / Sauerbruch Hutton",
+      "imageUrl": "https://images.adsttc.com/media/images/6a2b/61c7/6341/427a/f935/4944/medium_jpg/telekom-tower-konstanz-sauerbruch-hutton_6.jpg?1781227995",
+      "sourceUrl": "https://www.archdaily.cn/cn/1042471/kang-si-tan-ci-de-dian-xin-ta-lou-sauerbruch-hutton",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-3",
+      "title": "Herzog & de Meuron 将改造地拉那共产主义时期的大会宫",
+      "imageUrl": "https://snoopy.archdaily.com/images/archdaily/media/images/6a28/84c7/a0e0/6301/89c9/ee92/slideshow/herzog-and-de-meuron-to-renovate-tiranas-palace-of-congresses-cultural-venue_13.jpg?1781040388&format=webp&width=540&height=580",
+      "sourceUrl": "https://www.archdaily.cn/cn/1042544/herzog-and-de-meuron-jiang-gai-zao-di-la-na-gong-chan-zhu-yi-shi-qi-de-da-hui-gong",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-4",
+      "title": "杭州·西溪菜市 PARK IN MARKET/ 九樟营造事务所",
+      "imageUrl": "https://images.adsttc.com/media/images/6a38/c468/6c38/4816/a744/1cfa/medium_jpg/park-in-market-office-canopy-of-architecture_26.jpg?1782105226",
+      "sourceUrl": "https://www.archdaily.cn/cn/1042633/hang-zhou-star-xi-xi-cai-shi-park-in-market-jiu-zhang-ying-zao-shi-wu-suo",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    }
+  ]
+}

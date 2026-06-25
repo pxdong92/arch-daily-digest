@@ -1,0 +1,98 @@
+{
+  "date": "2026-06-25",
+  "lastUpdated": "2026-06-25T18:00:12.849Z",
+  "gooood": [
+    {
+      "id": "gooood-0",
+      "title": "完整视频版：办公室真相 NO.59 - 谱观建筑",
+      "imageUrl": "https://oss.gooood.cn/uploads/2026/06/0fulvideo-office-fact-puguan_副本2-拷贝.jpg",
+      "sourceUrl": "https://www.gooood.cn/full-video-office-fact-spactrum.htm",
+      "source": "gooood",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "gooood-1",
+      "title": "办公室真相 NO.59 - 谱观建筑",
+      "imageUrl": "https://oss.gooood.cn/uploads/2026/05/00-office-fact-puguan-拷贝.jpg",
+      "sourceUrl": "https://www.gooood.cn/office-fact-spactrum.htm",
+      "source": "gooood",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "gooood-2",
+      "title": "完整视频版：OFFICE真相专辑 NO.58 - 金秋野",
+      "imageUrl": "https://oss.gooood.cn/uploads/2026/06/bold-46-office-fact-jinqiuye.jpg",
+      "sourceUrl": "https://www.gooood.cn/full-video-office-fact-jin-qiuye-studio.htm",
+      "source": "gooood",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "gooood-3",
+      "title": "OFFICE真相专辑 NO.58 - 金秋野",
+      "imageUrl": "https://oss.gooood.cn/uploads/2026/04/00-office-fact-jinqiuye-拷贝.jpg",
+      "sourceUrl": "https://www.gooood.cn/office-fact-jin-qiuye.htm",
+      "source": "gooood",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "gooood-4",
+      "title": "日常项目深度报道：Mission Bay - Uber总部大楼 / SHoP建筑事务所",
+      "imageUrl": "https://oss.gooood.cn/uploads/2026/04/uber-headquarter-shop-cover-拷贝-pit.jpg",
+      "sourceUrl": "https://www.gooood.cn/topic-mission-bay-uber-headquarters-by-shop-architects.htm",
+      "source": "gooood",
+      "architect": null,
+      "category": null
+    }
+  ],
+  "archdaily": [
+    {
+      "id": "archdaily-0",
+      "title": "基亚内文化与生态中心第二期 / Universidad de Ciencias Aplicadas de Múnich + Frente por la Defensa de la Tierra + Comunidad de Santa Catarina Quiané + CAMPO + Atarraya Taller de Arquitectura",
+      "imageUrl": "https://snoopy.archdaily.com/images/archdaily/media/images/69f0/ba8b/e0a7/c201/892c/a708/slideshow/centro-de-cultura-y-ecologia-quiane-fase-2-universidad-de-ciencias-aplicadas-de-munich-plus-frente-por-la-defensa-de-la-tierra-plus-comunidad-de-santa-catarina-quiane-plus-campo-plus-atarraya-taller-de-arquitectura_22.jpg?1777384169&format=webp&width=540&height=580",
+      "sourceUrl": "https://www.archdaily.cn/cn/1042042/ji-ya-nei-wen-hua-yu-sheng-tai-zhong-xin-di-er-qi-universidad-de-ciencias-aplicadas-de-munich-plus-frente-por-la-defensa-de-la-tierra-plus-comunidad-de-santa-catarina-quiane-plus-campo-plus-atarraya-taller-de-arquitectura",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-1",
+      "title": "从工厂到未来：后工业城市的适应性再利用",
+      "imageUrl": "https://images.adsttc.com/media/images/691a/f557/35d7/526c/e61d/6852/medium_jpg/from-factories-to-futures-adaptive-reuse-in-the-post-industrial-city_16.jpg?1763374433",
+      "sourceUrl": "https://www.archdaily.cn/cn/1041641/cong-gong-han-dao-wei-lai-hou-gong-ye-cheng-shi-de-gua-ying-xing-zai-li-yong",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-2",
+      "title": "Miaki 工作室 / Tamotsu Teshima Architect & Associates",
+      "imageUrl": "https://images.adsttc.com/media/images/6a1e/c259/35eb/2400/01f0/4caf/medium_jpg/miat_031.jpg?1780400816",
+      "sourceUrl": "https://www.archdaily.cn/cn/1042635/miaki-gong-zuo-shi-tamotsu-teshima-architect-and-associates",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-3",
+      "title": "马里布高中 / KoningEizenberg Architecture + NAC Architecture",
+      "imageUrl": "https://images.adsttc.com/media/images/6a28/c118/ba07/4e00/01cd/a438/medium_jpg/L1590365_-_web.jpg?1781055911",
+      "sourceUrl": "https://www.archdaily.cn/cn/1042634/ma-li-bu-gao-zhong-koningeizenberg-architecture-plus-nac-architecture",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-4",
+      "title": "Jugnoo 小屋 / PMA madhushala",
+      "imageUrl": "https://images.adsttc.com/media/images/6a29/a8bf/a0e0/6344/6c82/fe02/medium_jpg/jugnoo-pma-madhushala_13.jpg?1781115099",
+      "sourceUrl": "https://www.archdaily.cn/cn/1042631/jugnoo-xiao-wu-pma-madhushala",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    }
+  ]
+}

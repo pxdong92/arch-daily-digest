@@ -1,0 +1,98 @@
+{
+  "date": "2026-07-08",
+  "lastUpdated": "2026-07-08T17:16:04.859Z",
+  "gooood": [
+    {
+      "id": "gooood-0",
+      "title": "完整视频版：办公室真相 NO.61 – odd",
+      "imageUrl": "https://oss.gooood.cn/uploads/2026/07/odd-full-video-cover.jpg",
+      "sourceUrl": "https://www.gooood.cn/full-video-office-fact-odd.htm",
+      "source": "gooood",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "gooood-1",
+      "title": "办公室真相 NO.61 – odd",
+      "imageUrl": "https://oss.gooood.cn/uploads/2026/06/00-office-fact-odd_副本-拷贝.jpg",
+      "sourceUrl": "https://www.gooood.cn/office-fact-odd.htm",
+      "source": "gooood",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "gooood-2",
+      "title": "完整视频版：OFFICE真相专辑 NO.60 - 若本建筑",
+      "imageUrl": "https://oss.gooood.cn/uploads/2026/06/00-office-fact-rurabn-lili_副本3-拷贝.jpg",
+      "sourceUrl": "https://www.gooood.cn/full-video-office-fact-no-60-rurban-studio.htm",
+      "source": "gooood",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "gooood-3",
+      "title": "OFFICE真相专辑 NO.60 - 若本建筑",
+      "imageUrl": "https://oss.gooood.cn/uploads/2026/06/00-office-fact-rurabn-lili_副本-拷贝.jpg",
+      "sourceUrl": "https://www.gooood.cn/office-fact-rurban-studio-lili.htm",
+      "source": "gooood",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "gooood-4",
+      "title": "完整视频版：办公室真相 NO.59 - 谱观建筑",
+      "imageUrl": "https://oss.gooood.cn/uploads/2026/06/0fulvideo-office-fact-puguan_副本2-拷贝.jpg",
+      "sourceUrl": "https://www.gooood.cn/full-video-office-fact-spactrum.htm",
+      "source": "gooood",
+      "architect": null,
+      "category": null
+    }
+  ],
+  "archdaily": [
+    {
+      "id": "archdaily-0",
+      "title": "全球建筑是否仍能反映本土认同？",
+      "imageUrl": "https://images.adsttc.com/media/images/6a4b/e016/bd37/c901/7ebd/b0f0/medium_jpg/can-global-architecture-still-reflect-local-identity_2.jpg?1783357473",
+      "sourceUrl": "https://www.archdaily.cn/cn/1092264/quan-qiu-jian-zhu-shi-fou-reng-neng-fan-ying-ben-tu-ren-tong",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-1",
+      "title": "马德里拉斯罗萨斯住宅 / Fran Silvestre Arquitectos",
+      "imageUrl": "https://images.adsttc.com/media/images/6a47/eaec/b477/e200/0107/aa3a/medium_jpg/HOUSE_IN_LAS_ROZAS_FRAN_SILVESTRE_ARQUITECTOS_IMAGES_01.jpg?1783098170",
+      "sourceUrl": "https://www.archdaily.cn/cn/1092301/ma-de-li-la-si-luo-sa-si-zhu-zhai-fran-silvestre-arquitectos",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-2",
+      "title": "沙迦建筑三年展公布第三届参展人名单与开幕日期",
+      "imageUrl": "https://images.adsttc.com/media/images/6a47/7d1c/de7f/3c01/8757/2a10/medium_jpg/sharjah-architecture-triennial-announces-participants-and-opening-dates-for-third-edition_1.jpg?1783070027",
+      "sourceUrl": "https://www.archdaily.cn/cn/1054151/sha-jia-jian-zhu-san-nian-zhan-gong-bu-di-san-jie-can-zhan-ren-ming-dan-yu-kai-mu-ri-qi",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-3",
+      "title": "MVRDV 与 Balance Architettura 将改造都灵市立现代与当代艺术美术馆",
+      "imageUrl": "https://images.adsttc.com/media/images/6a4b/6f47/54de/fb01/894b/b1bf/medium_jpg/mvrdv-and-balance-architettura-to-renovate-turins-civic-gallery-of-modern-and-contemporary-art_4.jpg?1783328627",
+      "sourceUrl": "https://www.archdaily.cn/cn/1054163/mvrdv-yu-balance-architettura-jiang-gai-zao-du-ling-shi-li-xian-dai-yu-dang-dai-yi-zhu-mei-zhu-guan",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-4",
+      "title": "Rosso 听音吧 / Naso",
+      "imageUrl": "https://images.adsttc.com/media/images/6a47/5e27/b477/e200/0107/a95f/medium_jpg/DSC06167_1.jpg?1783062070",
+      "sourceUrl": "https://www.archdaily.cn/cn/1056000/rosso-ting-yin-ba-naso",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    }
+  ]
+}

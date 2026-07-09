@@ -1,0 +1,98 @@
+{
+  "date": "2026-07-09",
+  "lastUpdated": "2026-07-09T17:44:44.557Z",
+  "gooood": [
+    {
+      "id": "gooood-0",
+      "title": "完整视频版：办公室真相 NO.61 – odd",
+      "imageUrl": "https://oss.gooood.cn/uploads/2026/07/odd-full-video-cover.jpg",
+      "sourceUrl": "https://www.gooood.cn/full-video-office-fact-odd.htm",
+      "source": "gooood",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "gooood-1",
+      "title": "办公室真相 NO.61 – odd",
+      "imageUrl": "https://oss.gooood.cn/uploads/2026/06/00-office-fact-odd_副本-拷贝.jpg",
+      "sourceUrl": "https://www.gooood.cn/office-fact-odd.htm",
+      "source": "gooood",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "gooood-2",
+      "title": "完整视频版：OFFICE真相专辑 NO.60 - 若本建筑",
+      "imageUrl": "https://oss.gooood.cn/uploads/2026/06/00-office-fact-rurabn-lili_副本3-拷贝.jpg",
+      "sourceUrl": "https://www.gooood.cn/full-video-office-fact-no-60-rurban-studio.htm",
+      "source": "gooood",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "gooood-3",
+      "title": "OFFICE真相专辑 NO.60 - 若本建筑",
+      "imageUrl": "https://oss.gooood.cn/uploads/2026/06/00-office-fact-rurabn-lili_副本-拷贝.jpg",
+      "sourceUrl": "https://www.gooood.cn/office-fact-rurban-studio-lili.htm",
+      "source": "gooood",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "gooood-4",
+      "title": "完整视频版：办公室真相 NO.59 - 谱观建筑",
+      "imageUrl": "https://oss.gooood.cn/uploads/2026/06/0fulvideo-office-fact-puguan_副本2-拷贝.jpg",
+      "sourceUrl": "https://www.gooood.cn/full-video-office-fact-spactrum.htm",
+      "source": "gooood",
+      "architect": null,
+      "category": null
+    }
+  ],
+  "archdaily": [
+    {
+      "id": "archdaily-0",
+      "title": "持续生成与转型中的当代中国建筑：专访 THAD 刘玉龙",
+      "imageUrl": "https://images.adsttc.com/media/images/6a4f/b3df/ec97/ec01/885c/119d/medium_jpg/chi-xu-sheng-cheng-yu-zhuan-xing-zhong-de-dang-dai-zhong-guo-jian-zhu-zhuan-fang-thad-liu-yu-long_1.jpg?1783608316",
+      "sourceUrl": "https://www.archdaily.cn/cn/1092381/chi-xu-sheng-cheng-yu-zhuan-xing-zhong-de-dang-dai-zhong-guo-jian-zhu-zhuan-fang-thad-liu-yu-long",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-1",
+      "title": "饮料技术应用科学大学 —— 报告厅大楼与物流实验室 / Bez+Kock Architekten",
+      "imageUrl": "https://images.adsttc.com/media/images/6920/8213/4d20/ca00/01de/5e18/medium_jpg/01_LHLO_250711031.jpg?1763738164",
+      "sourceUrl": "https://www.archdaily.cn/cn/1042826/yin-liao-ji-zhu-ying-yong-ke-xue-da-xue-bao-gao-ting-da-lou-yu-wu-liu-shi-yan-shi-bez-plus-kock-architekten",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-2",
+      "title": "建筑即雕塑：来自 ArchDaily 社区的 5 个未建成博物馆项目",
+      "imageUrl": "https://images.adsttc.com/media/images/6a4d/a4bd/5d2a/a901/883d/874a/medium_jpg/6-unbuilt-museum-projects-from-the-archdaily-community_30.jpg?1783473369",
+      "sourceUrl": "https://www.archdaily.cn/cn/1092380/jian-zhu-ji-diao-su-lai-zi-archdaily-she-qu-de-5-ge-wei-jian-cheng-bo-wu-guan-xiang-mu",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-3",
+      "title": "安徽艺术学院美术馆 / 同济大学建筑设计研究院 +  道辰建筑",
+      "imageUrl": "https://images.adsttc.com/media/images/6a4d/51b9/25a9/f501/8a94/bd7a/medium_jpg/art-museum-of-ahua-tjad-plus-dca_14.jpg?1783452109",
+      "sourceUrl": "https://www.archdaily.cn/cn/1056612/an-hui-yi-zhu-xue-yuan-mei-zhu-guan-tong-ji-da-xue-jian-zhu-she-ji-yan-jiu-yuan-plus-dao-chen-jian-zhu",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-4",
+      "title": "轻，更轻，最轻：ArchDaily 四月月度主题",
+      "imageUrl": "https://snoopy.archdaily.com/images/archdaily/media/images/69cc/40ed/1725/ba01/7e5a/eb6e/slideshow/light-lighter-lightest-archdailys-april-editorial-focus_12.jpg?1774993650&format=webp&width=540&height=580",
+      "sourceUrl": "https://www.archdaily.cn/cn/1054580/qing-geng-qing-zui-qing-archdaily-si-yue-yue-du-zhu-ti",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    }
+  ]
+}

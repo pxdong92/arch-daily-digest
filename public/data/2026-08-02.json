@@ -1,0 +1,52 @@
+{
+  "date": "2026-08-02",
+  "lastUpdated": "2026-08-02T16:43:27.997Z",
+  "gooood": [],
+  "archdaily": [
+    {
+      "id": "archdaily-0",
+      "title": "藏红花阳台住宅 / HabitArt Architecture Studio",
+      "imageUrl": "https://images.adsttc.com/media/images/6a6c/87c7/1801/ca00/0176/e7b7/medium_jpg/DSC_8918.jpg?1785497641",
+      "sourceUrl": "https://www.archdaily.cn/zh/1182043/cang-hong-hua-yang-tai-zhu-zhai-habitart-architecture-studio",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-1",
+      "title": "町田站区社区枢纽“Hatmachida” / 日建设计",
+      "imageUrl": "https://images.adsttc.com/media/images/6a6c/713b/1801/ca00/0176/e584/medium_jpg/hatmachida_03_nikken_Photo_by_Shota_Hiyoshi.jpg?1785491797",
+      "sourceUrl": "https://www.archdaily.cn/zh/1182020/ting-tian-zhan-qu-she-qu-shu-niu-hatmachida-ri-jian-she-ji",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-2",
+      "title": "Bell 住宅 / BILBAO | LOPEZ",
+      "imageUrl": "https://images.adsttc.com/media/images/6a6c/8eac/1801/ca00/0176/e875/medium_jpg/058A7639.jpg?1785499407",
+      "sourceUrl": "https://www.archdaily.cn/zh/1182007/bell-zhu-zhai-bilbao-lopez",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-3",
+      "title": "Resonancia 装置 / PPAA",
+      "imageUrl": "https://images.adsttc.com/media/images/6a6c/a787/0364/d201/89e9/7811/medium_jpg/resonancia-ppaa_14.jpg?1785505760",
+      "sourceUrl": "https://www.archdaily.cn/zh/1182026/resonancia-zhuang-zhi-ppaa",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-4",
+      "title": "Pisçude 住宅 / Revvero Arq + Mariana Bet Arquitetura",
+      "imageUrl": "https://images.adsttc.com/media/images/6a6c/8b7d/1801/ca00/0176/e7ca/medium_jpg/Revvero_Arq___Obra_-_5.jpg?1785498512",
+      "sourceUrl": "https://www.archdaily.cn/zh/1182051/piscude-zhu-zhai-revvero-arq-plus-mariana-bet-arquitetura",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    }
+  ]
+}

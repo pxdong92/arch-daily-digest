@@ -1,0 +1,52 @@
+{
+  "date": "2026-08-05",
+  "lastUpdated": "2026-08-05T17:15:47.403Z",
+  "gooood": [],
+  "archdaily": [
+    {
+      "id": "archdaily-0",
+      "title": "aa 安安 / vari architects 几里建筑",
+      "imageUrl": "https://images.adsttc.com/media/images/6a72/c996/eb02/9f01/882a/2267/medium_jpg/aa-market-vari-architects_11.jpg?1785907648",
+      "sourceUrl": "https://www.archdaily.cn/zh/1182222/aa-an-an-vari-architects-ji-li-jian-zhu",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-1",
+      "title": "野兽派顶层公寓 / Barde + vanVoltt",
+      "imageUrl": "https://images.adsttc.com/media/images/6a68/b547/d865/3d00/014d/0c87/medium_jpg/3_WebResolution_EscandonPH_BardeVanVoltt_PhotoByAlejandroRamirezOrozco.jpg?1785247160",
+      "sourceUrl": "https://www.archdaily.cn/zh/1181888/ye-shou-pai-ding-ceng-gong-yu-barde-plus-vanvoltt",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-2",
+      "title": "PH Juana / Estudio NU",
+      "imageUrl": "https://images.adsttc.com/media/images/6a71/c198/5b21/b900/0199/29b8/medium_jpg/PH-21.jpg?1785840596",
+      "sourceUrl": "https://www.archdaily.cn/zh/1182279/ph-juana-estudio-nu",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-3",
+      "title": "Paraiso 住宅改造 / Austin Sandy Architects",
+      "imageUrl": "https://images.adsttc.com/media/images/6a6b/5e23/1801/ca00/0176/e1f1/medium_jpg/Mahya-Salehi_Paraiso_16.jpg?1785421578",
+      "sourceUrl": "https://www.archdaily.cn/zh/1182126/paraiso-zhu-zhai-gai-zao-austin-sandy-architects",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-4",
+      "title": "RDH 住宅 / Čechvala Architects",
+      "imageUrl": "https://images.adsttc.com/media/images/6a6c/71e0/1801/ca00/0176/e611/medium_jpg/C_ECHVALA_ARCHITECTS_RDH_-_photo_by_alex_shoots_buildings__7_of_20_.jpg?1785491953",
+      "sourceUrl": "https://www.archdaily.cn/zh/1182170/rdh-zhu-zhai-cechvala-architects",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "date": "2026-09-01",
+  "lastUpdated": "2026-09-01T18:55:43.248Z",
+  "gooood": [],
+  "archdaily": [
+    {
+      "id": "archdaily-0",
+      "title": "Lighthouse 住宅 / Architecture Discipline",
+      "imageUrl": "https://images.adsttc.com/media/images/6a95/0e72/b71a/0f01/89f1/b733/medium_jpg/lighthouse-residence-architecture-discipline_12.jpg?1788153491",
+      "sourceUrl": "https://www.archdaily.cn/zh/1184229/lighthouse-zhu-zhai-architecture-discipline",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-1",
+      "title": "Souvinha 住宅 / Parto",
+      "imageUrl": "https://images.adsttc.com/media/images/6a91/9c1b/a25c/7b00/0125/fc60/medium_jpg/22.-Ph.-Francisco-Ascen__o.jpg?1787927698",
+      "sourceUrl": "https://www.archdaily.cn/zh/1184353/souvinha-zhu-zhai-parto",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-2",
+      "title": "缝隙之店 / Studio Cadena",
+      "imageUrl": "https://images.adsttc.com/media/images/6a91/d0e9/a25c/7b00/0125/feef/medium_jpg/05_StoreWithAGap_StudioCadena_Juan_Camilo_Roa.jpg?1787941123",
+      "sourceUrl": "https://www.archdaily.cn/zh/1184316/feng-xi-zhi-dian-studio-cadena",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-3",
+      "title": "Junqueira 307 公寓 / Fragmentos",
+      "imageUrl": "https://images.adsttc.com/media/images/6a8c/bc6d/4253/0500/01ca/0604/medium_jpg/Fragmentos_Junqueira_307__Tiago_Sales_010.jpg?1787608558",
+      "sourceUrl": "https://www.archdaily.cn/zh/1184255/junqueira-307-gong-yu-fragmentos",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-4",
+      "title": "人本尺度的气候基础设施：从水资源管理到城市降温",
+      "imageUrl": "https://images.adsttc.com/media/images/6a91/9d70/b71a/0f01/89f1/b30a/medium_jpg/climate-infrastructure-at-human-scale_4.jpg?1787927926",
+      "sourceUrl": "https://www.archdaily.cn/zh/1184268/ren-ben-chi-du-de-qi-hou-ji-chu-she-shi-cong-shui-zi-yuan-guan-li-dao-cheng-shi-jiang-wen",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    }
+  ]
+}

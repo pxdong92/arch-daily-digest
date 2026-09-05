@@ -1,0 +1,52 @@
+{
+  "date": "2026-09-05",
+  "lastUpdated": "2026-09-05T17:45:48.543Z",
+  "gooood": [],
+  "archdaily": [
+    {
+      "id": "archdaily-0",
+      "title": "Ocean 住宅 / Biazus Arquitetura",
+      "imageUrl": "https://images.adsttc.com/media/images/6a91/c1a4/a25c/7b00/0125/fd77/medium_jpg/Casa_Ocean_Side-3.jpg?1787937236",
+      "sourceUrl": "https://www.archdaily.cn/zh/1184456/ocean-zhu-zhai-biazus-arquitetura",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-1",
+      "title": "愚公移山 / Schwartz and Architecture",
+      "imageUrl": "https://images.adsttc.com/media/images/6a84/431d/3cf9/6c00/0178/370d/medium_jpg/1205BH_PhotoByBruceDamonte_02_edit.jpg?1787052902",
+      "sourceUrl": "https://www.archdaily.cn/zh/1184387/yu-gong-yi-shan-schwartz-and-architecture",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-2",
+      "title": "城市作为健康系统：打破街道的循环",
+      "imageUrl": "https://images.adsttc.com/media/images/6a8e/ae77/ab59/ca01/8994/7733/medium_jpg/the-city-as-a-system-of-health-breaking-feedback-loops-in-planning_1.jpg?1787735678",
+      "sourceUrl": "https://www.archdaily.cn/zh/1184170/cheng-shi-zuo-wei-jian-kang-xi-tong-da-po-gui-hua-zhong-de-fan-kui-xun-huan",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-3",
+      "title": "CARNIVAL 曼谷一号 / Studio Profile",
+      "imageUrl": "https://snoopy.archdaily.com/images/archdaily/media/images/6a96/727a/d93e/3d00/01db/8069/slideshow/Profile_CARNIVAL_PHOTO_11_WenStudio.jpg?1788244657&format=webp&width=540&height=580",
+      "sourceUrl": "https://www.archdaily.cn/zh/1184406/carnival-man-gu-hao-studio-profile",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-4",
+      "title": "雨之根茎 / TANAT + 水之根茎",
+      "imageUrl": "https://images.adsttc.com/media/images/6a9a/e471/cc78/e35f/2293/85b4/medium_jpg/rizoma-de-lluvia-tanat_13.jpg?1788535955",
+      "sourceUrl": "https://www.archdaily.cn/zh/1184556/yu-zhi-gen-jing-tanat-plus-shui-zhi-gen-jing",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "date": "2026-10-06",
+  "lastUpdated": "2026-10-06T20:37:01.998Z",
+  "gooood": [],
+  "archdaily": [
+    {
+      "id": "archdaily-0",
+      "title": "Casa Arena Bruja 住宅 / Un Estudio Propio",
+      "imageUrl": "https://images.adsttc.com/media/images/6abb/df95/a979/aa00/0118/7a78/medium_jpg/03-Web.jpg?1790697406",
+      "sourceUrl": "https://www.archdaily.cn/zh/1186435/casa-arena-bruja-zhu-zhai-un-estudio-propio",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-1",
+      "title": "米拉马尔海景大厦 / OODA",
+      "imageUrl": "https://images.adsttc.com/media/images/68da/8b6d/3df7/b301/8857/b383/medium_jpg/torre-de-miramar-ooda_24.jpg?1759153016",
+      "sourceUrl": "https://www.archdaily.cn/zh/1035301/mi-la-ma-er-hai-jing-da-sha-ooda",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-2",
+      "title": "Ris 别墅 / R21 Arkitekter",
+      "imageUrl": "https://images.adsttc.com/media/images/6ac3/6d31/07c3/d100/017f/ceeb/medium_jpg/Villa_Ris_05_kopi.jpg?1791192435",
+      "sourceUrl": "https://www.archdaily.cn/zh/1186342/ris-bie-shu-r21-arkitekter",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-3",
+      "title": "绘制新城：巴西利亚、福特兰迪亚与圭亚那城",
+      "imageUrl": "https://images.adsttc.com/media/images/6abf/fa6e/27ac/8d01/89cb/b429/medium_jpg/architecture-and-the-imagined-territories-of-latin-america_9.jpg?1790966396",
+      "sourceUrl": "https://www.archdaily.cn/zh/1186343/hui-zhi-xin-cheng-ba-xi-li-ya-fu-te-lan-di-ya-yu-gui-ya-na-cheng",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-4",
+      "title": "毕尔巴鄂美术馆 / Foster + Partners",
+      "imageUrl": "https://images.adsttc.com/media/images/6ac3/c0ba/27ac/8d01/89cb/b915/medium_jpg/bilbao-fine-arts-museum-foster-plus-partners_3.jpg?1791213849",
+      "sourceUrl": "https://www.archdaily.cn/zh/1186355/bi-er-ba-e-mei-zhu-guan-foster-plus-partners",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "date": "2026-10-17",
+  "lastUpdated": "2026-10-17T18:00:04.379Z",
+  "gooood": [],
+  "archdaily": [
+    {
+      "id": "archdaily-0",
+      "title": "MAGMA 住宅 / SUITE",
+      "imageUrl": "https://images.adsttc.com/media/images/6ad1/15a9/aadf/a000/01e3/a5cf/medium_jpg/Suite_CasaCor_2026_SF_Fotos_Pedro_Ocanhas26.jpg?1792087707",
+      "sourceUrl": "https://www.archdaily.cn/zh/1187029/magma-zhu-zhai-suite",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-1",
+      "title": "Casa Colares Sintra / Sabrab",
+      "imageUrl": "https://images.adsttc.com/media/images/6ad2/80aa/8008/f470/ea3a/bbd3/medium_jpg/casa-colares-sintra-sabrab_19.jpg?1792180441",
+      "sourceUrl": "https://www.archdaily.cn/zh/1187055/casa-colares-sintra-sabrab",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-2",
+      "title": "上海大歌剧院 / Snøhetta",
+      "imageUrl": "https://images.adsttc.com/media/images/6acf/8625/7887/fb01/8910/720a/medium_jpg/shanghai-grand-opera-house-snohetta_32.jpg?1791985266",
+      "sourceUrl": "https://www.archdaily.cn/zh/1186923/shang-hai-da-ge-ju-yuan-snohetta",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-3",
+      "title": "地堡与方舟：逃离我们亲手建造的未来",
+      "imageUrl": "https://images.adsttc.com/media/images/6abe/e95c/87ec/5401/8809/f797/medium_jpg/bunkers-and-arks-escaping-the-future-we-built-ourselves_6.jpg?1790896479",
+      "sourceUrl": "https://www.archdaily.cn/zh/1186493/di-bao-yu-fang-zhou-tao-chi-wo-men-qin-shou-jian-zao-de-wei-lai",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-4",
+      "title": "布拉格消防救援局 / Architektura",
+      "imageUrl": "https://images.adsttc.com/media/images/6ab4/838b/59bf/5a01/8bd6/8458/medium_jpg/prague-fire-rescue-service-architektura_1.jpg?1790215070",
+      "sourceUrl": "https://www.archdaily.cn/zh/1186833/bu-la-ge-xiao-fang-jiu-yuan-ju-architektura",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    }
+  ]
+}

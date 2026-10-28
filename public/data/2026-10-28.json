@@ -1,0 +1,52 @@
+{
+  "date": "2026-10-28",
+  "lastUpdated": "2026-10-28T20:38:11.714Z",
+  "gooood": [],
+  "archdaily": [
+    {
+      "id": "archdaily-0",
+      "title": "几何废墟 / 00L",
+      "imageUrl": "https://images.adsttc.com/media/images/6ae1/c375/db5c/2001/882d/0dd7/medium_jpg/a-geometric-ruin_15.jpg?1793180611",
+      "sourceUrl": "https://www.archdaily.cn/zh/1187675/ji-he-fei-xu-00l",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-1",
+      "title": "Casa MAS / SUITE",
+      "imageUrl": "https://images.adsttc.com/media/images/6ad1/15b0/aadf/a000/01e3/a5f2/medium_jpg/Suite_MAS_SF_Fotos_Pedro_Ocanhas__96__2.jpg?1792087552",
+      "sourceUrl": "https://www.archdaily.cn/zh/1187548/casa-mas-suite",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-2",
+      "title": "Goldring Woldenberg 滨河公园 / Eskew+Dumez+Ripple",
+      "imageUrl": "https://images.adsttc.com/media/images/6ad7/9927/aadf/a000/01e3/b903/medium_jpg/_Tim_Hursley_TH060226_EDR_GWP_DR003.jpg?1792514452",
+      "sourceUrl": "https://www.archdaily.cn/zh/1187669/goldring-woldenberg-bin-he-gong-yuan-eskew-plus-dumez-plus-ripple",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-3",
+      "title": "Coliseum Place 保障性住房 / David Baker Architects",
+      "imageUrl": "https://images.adsttc.com/media/images/6751/8dfd/3080/cf00/0100/d010/medium_jpg/21503_ColiseumPlace_BruceDamonte_02.jpg?1733398062",
+      "sourceUrl": "https://www.archdaily.cn/zh/1167620/coliseum-place-bao-zhang-xing-zhu-fang-david-baker-architects",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-4",
+      "title": "MIND 博物馆 / C.F. Møller",
+      "imageUrl": "https://images.adsttc.com/media/images/6adf/8cc2/3271/8400/01d0/ec79/medium_jpg/04_MIND_Photo_by_Kirstine_Mengel.jpg?1793035560",
+      "sourceUrl": "https://www.archdaily.cn/zh/1187629/mind-bo-wu-guan-cf-moller",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    }
+  ]
+}

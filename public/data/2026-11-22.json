@@ -1,0 +1,52 @@
+{
+  "date": "2026-11-22",
+  "lastUpdated": "2026-11-22T21:22:04.978Z",
+  "gooood": [],
+  "archdaily": [
+    {
+      "id": "archdaily-0",
+      "title": "Casa Amigó / Estudio Travertino",
+      "imageUrl": "https://images.adsttc.com/media/images/6af7/0351/eabd/2a00/0192/e3ed/medium_jpg/01-AMIGO-TRAVERTINO.jpg?1794573153",
+      "sourceUrl": "https://www.archdaily.cn/zh/1188966/casa-amigo-estudio-travertino",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-1",
+      "title": "玫瑰园露台 / RH-EL",
+      "imageUrl": "https://images.adsttc.com/media/images/677b/fcf0/8774/0101/87cd/3fd8/medium_jpg/terraza-rosaleda-rh-el_1.jpg?1736178960",
+      "sourceUrl": "https://www.archdaily.cn/zh/1067023/mei-gui-yuan-lu-tai-rh-el",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-2",
+      "title": "LDN 住宅 / ERENTIA",
+      "imageUrl": "https://images.adsttc.com/media/images/6af5/96cd/eabd/2a00/0192/d43d/medium_jpg/_S__ERENTIA_LDN_EDMUND_SUMNER_05.jpg?1794479894",
+      "sourceUrl": "https://www.archdaily.cn/zh/1189026/ldn-zhu-zhai-erentia",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-3",
+      "title": "AUA Najarian 大楼 / Storaket Architectural Studio",
+      "imageUrl": "https://snoopy.archdaily.com/images/archdaily/media/images/6af1/8cde/4ba6/4700/01d0/80c2/slideshow/AUA_Najarian_Center_01.jpg?1794215205&format=webp&width=540&height=580",
+      "sourceUrl": "https://www.archdaily.cn/zh/1188910/aua-najarian-da-lou-storaket-architectural-studio",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    },
+    {
+      "id": "archdaily-4",
+      "title": "现代与墨西哥：马里奥·帕尼位于墨西哥城的 CUPA 集合住宅",
+      "imageUrl": "https://images.adsttc.com/media/images/6aec/fcaf/c723/9a01/895a/2e02/medium_jpg/centro-urbano-presidente-aleman-cupa-the-story-behind-mexicos-first-modern-multifamily-housing-complex_7.jpg?1793916107",
+      "sourceUrl": "https://www.archdaily.cn/zh/1188629/xian-dai-yu-mo-xi-ge-ma-li-ao-star-pa-ni-wei-yu-mo-xi-ge-cheng-de-cupa-ji-he-zhu-zhai",
+      "source": "archdaily",
+      "architect": null,
+      "category": null
+    }
+  ]
+}
